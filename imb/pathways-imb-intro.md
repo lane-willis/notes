@@ -47,4 +47,4 @@ If you have additional questions concerning the Pathways » IMB cohorts, applica
 
 ---
 
-[Return to Main Menu](https://pathways.ml/pathways-imb/)
+[Return to Main Menu](https://missions.center/pathways/pathways-imb)

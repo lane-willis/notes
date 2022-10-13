@@ -4,7 +4,7 @@ date: 2020-12-22
 author: Keelan Cook
 parent: Great Commission Pathways
 has_children: true
-nav_order: 4
+nav_order: 3
 ---
 
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)

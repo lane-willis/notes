@@ -17,12 +17,6 @@ On this site, you will find a collection of materials for students and local chu
 In addition to a resource hub, we desire that the site itself will become a tool for training both churches and potential sent ones from their churches. Our goal is to provide a central location for associations, churches, and individuals to point those they are equipping to walk through a training process.
 
 ---
-## The Pathways
-* [Pathways » IMB](/imb/pathways-imb-instructional-guide/)
-* [Pathways » Planting](/planting/pathways-planting-intro/)
-* [Pathways » Replanting](/replanting/pathways-replanting-intro/)
-
----
 ## Connect
-If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at the following places.
+If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at [our main website](https://thecgcs.org).
 

@@ -2,6 +2,7 @@
 layout: page
 title: Pathways » IMB
 author: Keelan Cook
+parent: Great Commission Pathways
 has_children: true
 nav_order: 2
 created: 2020-12-01

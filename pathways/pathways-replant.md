@@ -2,6 +2,7 @@
 title: Pathways » Replant
 date: 2020-12-22
 author: Keelan Cook
+parent: Great Commission Pathways
 has_children: true
 nav_order: 4
 ---

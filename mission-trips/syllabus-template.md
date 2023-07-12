@@ -18,4 +18,6 @@ Professors, for more information, check out the [Professor Expectation page](/mi
 
 Students, feel free to check out the [Student Expectations page](/missions-center/mission-trips/student-expectations.html) and [Student FAQ page](/missions-center/mission-trips/student-faq.html).
 
-### [Download Syllabus Here](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)
+### [Download PDF Syllabus Here](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)
+
+### [Download Word Document Syllabus Here](/missions-center/files/Mission%20Trip%20Syllabus%20Template.docx)

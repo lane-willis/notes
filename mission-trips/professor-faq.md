@@ -50,7 +50,7 @@ nav_order: 1
    * Our core strategy when going on a mission trip is to partner with local believers or local missionaries who work in the target area. We will partner with them, coming alongside their strategies and rhythms to get the Gospel to the nations. The IMB utilizes a strategic method called the Core Missionary Task (Entry, evangelism, discipleship, healthy church formation, leadership training, and partnership and exit). Partnering with IMB teams in one of these categories is a great way to implement strategy. Other strategies include aiding in-country churches with VBS, caring for in-country missionaries, diaspora work, replanting/revitalization work, and being involved in open-air preaching. The goal of our strategy should always be the fulfillment of the Great Commission. So, whatever strategy you choose to implement, it should have as its thrust, the Great Commission. **Want to discuss this with you. Feel like I should know these better than I do.**
 
 ### What expectations does the CGCS have of faculty members?
-   * See expectation list [here](/missions-center/mission-trips/professor-expectations.md). There are expectations before the trip, during the trip, and after the trip. Please read these carefully.
+   * See expectation list [here](/missions-center/mission-trips/professor-expectations.html). There are expectations before the trip, during the trip, and after the trip. Please read these carefully.
 
 ### Do professors share rooms with students?
    * Professors are advised against sharing a room with students. This can create questions that you may not want and the school does not want. Avoid this at all costs.

@@ -134,4 +134,4 @@ What are some specific things Advocacy Teams can do to care for their missionari
 
 ---
 
-[Return to Main Menu](/pathways/pathways-imb.html)
+[Return to Main Menu](/missions-center/pathways/pathways-imb.html)

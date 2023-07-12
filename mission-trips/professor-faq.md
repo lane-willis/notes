@@ -18,6 +18,7 @@ nav_order: 1
 
 ### Where can I go on a mission trip? Is there anywhere out of bounds?
    * You are allowed to go anywhere in the world. Safety of our students is of utmost importance, so consider this as you are choosing where to go. You should also look to partner with workers on the ground where you are going. First choice would be to partner with IMB personnel. Places that are out of bounds might include war zones, places deemed unsafe by the IMB or other agencies, or secure locations that would put teams you visit at risk.
+
 ### Where have we gone on mission trips before?
    * We have gone to many countries in Africa, Europe, the Middle East, South Asia, Southeast Asia, and South America. We have also gone on trips to many locations in the North America such as Utah, Alaska, Florida, Houston, NYC, Toronto, Mexico, and Clarkston.
 ### What should we do on a mission trip?

@@ -8,7 +8,18 @@ nav_order: 2
 
 ---
 
-# Expectations
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+# Professor Expectations
 
 ---
 
@@ -55,7 +66,7 @@ nav_order: 2
  9. Prepare spiritually as well as physically.
 10. Pack well.
 
-## Mid-Trip
+## During Trip
 
 ---
 

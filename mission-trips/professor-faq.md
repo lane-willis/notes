@@ -9,15 +9,11 @@ nav_order: 1
 ---
 
 
-## Faculty Questions and Expectations
+## Frequently Asked Questions
 
 ---
 
-### QUESTIONS
-
----
-
-##### General Information
+### General Information
 
  1. Where can I go on a mission trip? Is there anywhere out of bounds?
     * You are allowed to go anywhere in the world. Safety of our students is of utmost importance, so consider this as you are choosing where to go. You should also look to partner with workers on the ground where you are going. First choice would be to partner with IMB personnel. Places that are out of bounds might include war zones, places deemed unsafe by the IMB or other agencies, or secure locations that would put teams you visit at risk.
@@ -56,7 +52,7 @@ nav_order: 1
 19. Will I have access to an interpreter or will I need to arrange this if people cannot speak English? Should we even go to a location like this?
     * Arranging for an interpreter will be up to the professor. The CGCS will not arrange this for you. Going to a location that needs an interpreter is a possibility. This will depend on what strategies you are implementing while on the trip. If students are expected to do door-knocking or street evangelism where English is not spoken, you might want to rethink your strategy.
 
-##### Preparation Questions
+### Preparation Questions
 
  1. How do I suggest a mission trip to the CGCS?
     * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our assistant director (hopefully). The trip prospectus form can be found [here](https://cgcs.wufoo.com/forms/mx5d1q41tgaui9/).
@@ -97,7 +93,7 @@ nav_order: 1
 14. What expectations do we have for students?
    * We expect students to be heavy participants on the trip. They should not be lackadaisical or apathetic. They are to be involved every step of the way. Students are also expected to complete all course related materials, attend a pre-trip briefing, and write a donor thank you letter. Other expectations can be seen in the example syllabus. **Link example syllabus**
 
-##### Money
+### Money
 
 1. How much does it cost for me as a professor to go on a trip? Do I have to pay my own way?
    * A mission trip is free for you as a professor. The CGCS will cover your cost for the mission trip. We will not cover any spouse or children that might go on the trip.

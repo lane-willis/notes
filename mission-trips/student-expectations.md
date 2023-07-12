@@ -12,7 +12,9 @@ nav_order: 4
 
 ---
 
-### Pre-Trip
+## Pre-Trip
+
+---
 
 1. **Make sure your passport is up to date**
 2. Attend mandatory briefing held by professor.
@@ -26,7 +28,9 @@ nav_order: 4
 8. Pack well.
 9. Promote your trip to others and invite them to join you in praying for you, your team, and those who you will be ministering to on the trip.
 
-### During the Trip
+## During the Trip
+
+---
 
  1. Have quiet time every morning before going out to do ministry.
  2. Keep a daily journal.
@@ -44,7 +48,9 @@ nav_order: 4
 11. You are on a trip representing SEBTS and the CGCS. Do not hurt the reputation of the school while on the field.
 12. Abide by all the policies in the student handbook. These are not removed while on a mission trip with the school.
 
-### Post-Trip
+## Post-Trip
+
+---
 
 1. Write a reflection paper as outlined in your syllabus.
 2. Turn in all the other assignments that are due as required in the syllabus.

@@ -14,7 +14,7 @@ nav_order: 2
 
 ### Pre-Trip
 
-###### Before the Trip is Approved and Promoted
+#### Before the Trip is Approved and Promoted
 
 1. Research food costs, place of stay, local travel, and ministry expenses.
    * The CGCS will book (NOT RESEARCH) airfare and travel insurance. You are required to research travel before submitting the prospectus to give an accurate projection for the cost of travel. This includes submitting a potential flight path and pricing.
@@ -35,7 +35,7 @@ nav_order: 2
    * This might also necessitate conversation with locals to best determine the needs of the area.
 3. Submit a mission trip prospectus form by the end of the Spring semester for the following academic year.
 
-###### After Trip is Approved and is Promoted
+#### After Trip is Approved and is Promoted
 
  1. Develop a course syllabus that goes along with the mission trip.
     * This includes 500 pages of reading (minimum), a 3-to-5-page reflection paper integrating the academic and personal aspects of trip, and a prayer journal.

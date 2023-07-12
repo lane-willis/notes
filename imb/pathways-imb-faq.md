@@ -4,6 +4,7 @@ title: IMB FAQs
 author: Keelan Cook
 date: 2020-12-15
 parent: Pathways » IMB
+grandparent: Great Commission Pathways
 nav_order: 5
 
 ---

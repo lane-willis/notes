@@ -89,4 +89,4 @@ nav_order: 5
 ### Cross-cultural Missions
 
 ---
-[Return to Main Menu](https://keelancook.com/missions-center/pathways.html)
+[Return to Home Page](https://keelancook.com/missions-center/)

@@ -195,4 +195,5 @@ nav_order: 1
    * Outstanding student performance and character on a short-term mission trip qualifies 1-2 students from each trip for a new scholarship from financial aid for the year
 
 ---
-[Return to Main Menu](https://pathways.ml/mission-trips/)
+
+[Return to Home Page](https://keelancook.com/missions-center/)

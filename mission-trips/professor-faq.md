@@ -106,7 +106,7 @@ nav_order: 1
 ### What classroom materials do I need to prepare for a mission trip?
    * Professors are not necessarily responsible for daily lectures on missions and evangelism. However, you are encouraged to provide teaching during the course as it relates to missions, evangelism, the particular context of the trip, contextualization, etc.
    * You also need to prepare a class syllabus. This includes required reading and assignments. 
-   * Here is an [example syllabus](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf).
+   * Here is an **[example PDF syllabus](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)**. If you want a Word Document version **[click here](/missions-center/mission-trips/syllabus-template.html)**.
 
 ### Is there any help in reserving airfare/hotels/etc.? Or will I need to do this on my own?
    * The CGCS will book airfare and travel insurance for you. You will be responsible for arranging local transportation and housing, as well as schedule while on the ground.

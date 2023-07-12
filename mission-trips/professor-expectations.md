@@ -41,8 +41,8 @@ nav_order: 2
      * A last option would be to stay in hotels, but this should be avoided as it is not the best stewardship of funds.
      * If a reasonable play of stay cannot be secured, the trip option will not work.
    * This also includes information about visas, immunizations, and the country's needs.
-   * You also need to research [medical availability](https://wwwnc.cdc.gov/travel/) and access while on the trip for the various locations you will be visiting.
-   * You also need to research the safety of the area you will be going. You can check some travel information at the [U.S. State Department's website.](https://travel.state.gov/content/travel.html)
+   * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
+   * You also need to research the safety of the area you will be going. You can check some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
 2. Be aware of local culture.
    * Develop a relationship with workers on the ground where the mission trip will be located, identifying needs and goals of current teams on the ground.
    * This might also necessitate conversation with locals to best determine the needs of the area.

@@ -8,4 +8,4 @@ nav_order: 5
 
 ---
 
-### [Download Syllabus Here](Link syllabus file here)
+### [Download Syllabus Here](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)

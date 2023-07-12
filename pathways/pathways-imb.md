@@ -14,4 +14,13 @@ Pathways » IMB is a cooperative equipping cohort facilitated by the [Center for
 
 ---
 
+## IMB Information
+* [Pathways » IMB Intro](/imb/pathways-imb-intro.md)
+* [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide.md)
+* [Pathways » IMB Semester 1 Syllabus](/imb/pathways-imb-semster-1-syllabus.md)
+* [Pathways » IMB Advocacy Teams](/imb/advocacy-team-overview.md)
+* [Pathways » IMB FAQ](/imb/pathways-imb-faq.md/)
+
+---
+
 [Return to Home Page](https://keelancook.com/missions-center/)

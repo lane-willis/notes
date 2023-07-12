@@ -3,7 +3,6 @@ layout: page
 title: Mission Trips » Professor Expectations
 author: Keelan Cook
 parent: Mission Trips
-has_children: true
 date: 2023-07-12
 nav_order: 2
 

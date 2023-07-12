@@ -5,6 +5,7 @@ author: Keelan Cook
 date: 2020-12-15T00:00:00-06:00
 modified: 2021-03-16T19:18:24-05:00
 parent: Pathways » IMB
+grand_parent: Great Commission Pathways
 nav_order: 2
 ---
 

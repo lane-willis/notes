@@ -4,6 +4,7 @@ title: Cohort Introduction
 author: Keelan Cook
 created: 2020-12-01
 parent: Pathways » IMB
+grand_parent: Great Commission Pathways
 nav_order: 1
 
 ---

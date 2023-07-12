@@ -4,6 +4,7 @@ author: Keelan Cook
 layout: page
 created: 2021-02-12
 parent: Pathways » IMB
+grand_parent: Great Commission Pathways
 nav_order: 4
 ---
 

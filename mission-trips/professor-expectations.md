@@ -8,13 +8,15 @@ nav_order: 2
 
 ---
 
-## Expectations
+# Expectations
 
 ---
 
-### Pre-Trip
+## Pre-Trip
 
-#### Before the Trip is Approved and Promoted
+---
+
+### Before the Trip is Approved and Promoted
 
 1. Research food costs, place of stay, local travel, and ministry expenses.
    * The CGCS will book (NOT RESEARCH) airfare and travel insurance. You are required to research travel before submitting the prospectus to give an accurate projection for the cost of travel. This includes submitting a potential flight path and pricing.
@@ -35,7 +37,7 @@ nav_order: 2
    * This might also necessitate conversation with locals to best determine the needs of the area.
 3. Submit a mission trip prospectus form by the end of the Spring semester for the following academic year.
 
-#### After Trip is Approved and is Promoted
+### After Trip is Approved and is Promoted
 
  1. Develop a course syllabus that goes along with the mission trip.
     * This includes 500 pages of reading (minimum), a 3-to-5-page reflection paper integrating the academic and personal aspects of trip, and a prayer journal.
@@ -53,7 +55,9 @@ nav_order: 2
  9. Prepare spiritually as well as physically.
 10. Pack well.
 
-### Mid-Trip
+## Mid-Trip
+
+---
 
  1. Interact with students and engage in mentorship. We expect you to be a leader who is personal and approachable. We expect you to lead out in the areas where you expect students to participate.
     * Professors are not necessarily responsible for daily lectures on missions and evangelism. However, they are encouraged to provide teaching during the course as it relates to missions, evangelism, the particular context of the trip, contextualization, etc.
@@ -76,7 +80,9 @@ nav_order: 2
 17. Designate 1-2 students to send pictures, updates, and prayer requests to the CGCS Communications Specialist daily.
 18. Ensure students are writing donor thank you letter.
 
-### Post-Trip
+## Post-Trip
+
+---
 
 1. Turn in a summary of the mission trip to CGCS Director. Outline any specific encouraging stories that came out of the mission trip and your estimate of gospel conversations.
    * This should include a rough estimate of gospel conversations and/or ministry that occurred

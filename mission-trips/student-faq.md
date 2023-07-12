@@ -6,7 +6,9 @@ parent: Mission Trips
 date: 2023-07-12
 nav_order: 3
 
-## Questions
+---
+
+## Frequently Asked Questions
 
 ---
 

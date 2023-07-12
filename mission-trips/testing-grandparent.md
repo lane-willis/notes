@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Testing Page
-author: Keelan Cook
+Author: Lane Willis
+Date: 2023-07-12
 parent: Mission Trips » Professor FAQ
-grandparent: Mission Trips
-date: 2023-07-12
+grand_parent: Mission Trips
 nav_order: 1
 
 ---

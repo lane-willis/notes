@@ -31,7 +31,7 @@ nav_order: 3
    * Yes, there is no way around this requirement. Even if you don't need the credit, if you go on the trip, you take the class.
 
 ### Is there a way to get credit for a mission trip that I went on with my church?
-   * Yes, for more information on requirements to earn credit for a mission trip completed outside of Southeastern please [click here](https://drive.google.com/file/d/1m3QhhdE3Ne8VLaM9pTtdEYD1YnAhA67R/view).
+   * Yes, for more information on requirements to earn credit for a mission trip completed outside of Southeastern please **[click here](https://drive.google.com/file/d/1m3QhhdE3Ne8VLaM9pTtdEYD1YnAhA67R/view)**.
 
 ### How long does a mission trip with SEBTS typically last?
    * North American trips typically last around 7 days, while international trips typically last between 10 to 14 days. We require 5 days on the ground of ministry activity, thus needing a longer time to go internationally.
@@ -61,13 +61,13 @@ nav_order: 3
    * Depending on the housing arrangement, students will share rooms with other students. We try to avoid students rooming with professors.
 
 ### What is the process of applying for a mission trip?
-   * To apply for a mission trip, you must go to [thecgcs.org/trips](thecgcs.org/trips/). Here you will find a list of our mission trips and find information about when mission trip applications will be open. You will first fill out the mission trip application and then turn in your deposit. Your mission trip application will not be considered complete until you have submitted the application AND turned in your deposit.
+   * To apply for a mission trip, you must go to **[our website](https://www.thecgcs.org/trips/)**. Here you will find a list of our mission trips and find information about when mission trip applications will be open. You will first fill out the mission trip application and then turn in your deposit. Your mission trip application will not be considered complete until you have submitted the application AND turned in your deposit.
 
 ### Do mission trips fill up?
    * Some mission trips are more popular than others. We encourage applying immediately when trips open to ensure your slot on the trip.
 
 ### What if I have medicines I need to bring?
-   * Medicine is common to bring with you on a trip. Each country and airline is different in its policy about medicine. Check with the [CDC here](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine) to find out more.
+   * Medicine is common to bring with you on a trip. Each country and airline is different in its policy about medicine. Check with the **[CDC here](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine)** to find out more.
 
 ### Will there be medical assistance while we are in-country?
    * Depending on your destination, medical assistance can be sparse. Professors are advised to plan emergency medical options while in-country. If you are partnering with a team of local workers, they will also know the best way to get medical assistance while in-country. Medical access is different all around the world, so ask your professor about your destination's health care!
@@ -104,7 +104,7 @@ nav_order: 3
    * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program. For more information, click here.
 
 ### How do I or donors make payments for mission trips?
-   * Payments for mission trips can be made in multiple ways. Checks can be written out to SEBTS and brought by the CGCS, or you can go online to pay by [clicking here](https://www.thecgcs.org/donate-pay/).
+   * Payments for mission trips can be made in multiple ways. Checks can be written out to SEBTS and brought by the CGCS, or you can go online to pay by **[clicking here](https://www.thecgcs.org/donate-pay/)**.
 
 ### What does the cost of the trip cover?
    * The cost of the trip covers travel, housing, and food.

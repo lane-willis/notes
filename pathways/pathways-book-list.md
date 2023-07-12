@@ -4,6 +4,7 @@ title: Pathways » Reading List
 author: Keelan Cook
 parent: Great Commission Pathways
 date: 2020-12-20
+nav_order: 5
 
 ---
 
@@ -88,4 +89,4 @@ date: 2020-12-20
 ### Cross-cultural Missions
 
 ---
-[Return to Main Menu](https://pathways.ml/pathways-imb/)
+[Return to Main Menu](https://keelancook.com/missions-center/pathways.html)

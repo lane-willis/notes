@@ -52,6 +52,7 @@ nav_order: 2
 
  1. Develop a course syllabus that goes along with the mission trip.
     * This includes 500 pages of reading (minimum), a 3-to-5-page reflection paper integrating the academic and personal aspects of trip, and a prayer journal.
+    * You can find syllabus templates [here](/mission-center/mission-trips/syllabus-template.html/).
  2. Help promote the trip in your classes, on campus, and on social media.
  3. Host a mandatory briefing with students to discuss expectations and goals for the trip.
     * Students fail the course if they do not attend.

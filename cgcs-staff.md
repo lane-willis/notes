@@ -9,4 +9,6 @@ nav_exclude: true
 
 ---
 
-# How do I hide/password protect this?
+# CGCS Staff Page
+
+This is the parent page for documentation within the CGCS. It includes a navigation page at the bottom to take you to any of the pages that you may need! Hope this simple site helps you with continuity and enables you to find workflows and manuals quickly!

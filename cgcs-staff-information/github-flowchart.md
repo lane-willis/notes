@@ -10,6 +10,7 @@ search_exclude: true
 ---
 
 # Github FlowChart
+This flowchart is an unlinked table of contents that gives the staff a way to see and understand the setup of the GitHub pages.
 
 ## Home Page
   * Landing page for the CGCS Knowledge base. Has links to the main website and welcome information.

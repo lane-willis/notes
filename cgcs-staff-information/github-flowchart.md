@@ -25,10 +25,15 @@ Sidebar Pages:
    4. Mission Trips >> Student Expectations
    5. Example Syllabus
 3. Student Practicums
-4. Church Partnerships
+4. Church Resources
    1. Becoming a Pathways Church
-   2. 
-5. Denominational Partnerships?
+   2. Church Partnership
+      1. How can a church become partners with the IMB?
+      2. How can a church become partners with NAMB?
+      3. How can a church become partners with NC Baptist?
+   3. Does my church need to be revitalized?
+   4. What does it mean to replant a church?
+5. Denominational Partnerships
    1. IMB
    2. NAMB
    3. NC Baptists

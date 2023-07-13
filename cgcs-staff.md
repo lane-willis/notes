@@ -1,5 +1,5 @@
 ---
-title: Testing Page
+title: CGCS Staff
 author: Lane Willis
 type: page
 nav_order: 4
@@ -8,4 +8,4 @@ created: 2023-07-13
 
 ---
 
-# Does this appear as a tab on the left?
+# How do I hide/password protect this?

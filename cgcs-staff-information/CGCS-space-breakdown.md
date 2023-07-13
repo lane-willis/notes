@@ -2,7 +2,7 @@
 title: CGCS Space Breakdown
 author: Lane Willis
 type: page
-nav_order: 1
+nav_order: 2
 parent: CGCS Staff
 created: 2023-07-13
 

@@ -20,6 +20,7 @@ nav_order: 3
 ---
 
 ## Frequently Asked Questions
+{: .no_toc }
 
 ---
 

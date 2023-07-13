@@ -20,6 +20,7 @@ nav_order: 4
 ---
 
 # Student Expectations
+{: .no_toc }
 
 ---
 

@@ -8,6 +8,11 @@ nav_order: 4
 
 ---
 
+# Student Expectations
+{: .no_toc }
+
+---
+
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -16,11 +21,6 @@ nav_order: 4
 1. TOC
 {:toc}
 </details>
-
----
-
-# Student Expectations
-{: .no_toc }
 
 ---
 

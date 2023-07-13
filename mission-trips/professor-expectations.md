@@ -8,6 +8,11 @@ nav_order: 2
 
 ---
 
+# Professor Expectations
+{: .no_toc }
+
+---
+
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -16,11 +21,6 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
-
----
-
-# Professor Expectations
-{: .no_toc }
 
 ---
 

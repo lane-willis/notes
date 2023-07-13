@@ -8,6 +8,11 @@ nav_order: 3
 
 ---
 
+## Frequently Asked Questions
+{: .no_toc }
+
+---
+
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -16,11 +21,6 @@ nav_order: 3
 1. TOC
 {:toc}
 </details>
-
----
-
-## Frequently Asked Questions
-{: .no_toc }
 
 ---
 

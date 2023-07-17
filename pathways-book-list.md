@@ -3,7 +3,6 @@
 layout: page
 title: Reading List
 author: Keelan Cook
-parent: Great Commission Pathways
 date: 2020-12-20
 nav_order: 6
 

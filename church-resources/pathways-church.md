@@ -3,7 +3,7 @@ title: Becoming a Pathways Church
 author: Keelan Cook
 type: page
 nav_order: 4
-parent: Great Commission Pathways
+parent: Church Resources
 has_children: true
 created: 2021-02-06
 

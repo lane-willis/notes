@@ -10,6 +10,7 @@ This site serves as the knowledge base for the Center for Great Commission Studi
 The following is a collection of resources and an equipping portal covering issues of calling and commission. Here students will find helps for discerning their particular pathway to the Great Commission, information about Southeastern mission trips, activities, residencies and internships. 
 
 Church leaders will find information about developing a sending culture, identifying and assessing people in their church for missions sending, and tools to equip those people for the sake of the Great Commission.
+
 ## Resource Hub
 On this site, you will find a collection of materials for students and local churches looking to implement sending processes or assess their own calling. These materials include reading lists, potential equipping cohort materials, and explainers for developing a sending culture within a church. This resource hub is continually in development, and we hope to continue adding valuable tools as we develop them.
 

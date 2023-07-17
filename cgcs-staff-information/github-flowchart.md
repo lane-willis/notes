@@ -39,7 +39,8 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
    1. IMB
    2. NAMB
    3. NC Baptists
-6. CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
+6. Reading List: This page hosts a reading list resources for students, churches, and denominational partners.
+7. CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
    1. Github FlowChart
    2. CGCS Office Space Breakdown
    3. Github Information

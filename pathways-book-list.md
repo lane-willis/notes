@@ -1,13 +1,13 @@
 ---
+
 layout: page
-title: Pathways » Reading List
+title: Reading List
 author: Keelan Cook
 parent: Great Commission Pathways
 date: 2020-12-20
-nav_order: 5
+nav_order: 6
 
 ---
-
 
 ## Books
 

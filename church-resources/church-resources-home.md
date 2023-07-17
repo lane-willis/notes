@@ -3,7 +3,7 @@
 title: Church Resources
 author: Lane Willis
 type: page
-nav_order: 1
+nav_order: 4
 has_children: true
 created: 2023-07-17
 

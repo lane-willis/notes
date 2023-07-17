@@ -71,6 +71,7 @@ nav_order: 6
 * [The Missionary Task: Forming a Healthy Church](https://www.imb.org/2018/11/06/missionary-task-healthy-church/) by D. Ray Davis
 * [The Missionary Task: Training Faithful Leaders](https://www.imb.org/2018/11/13/missionary-task-training-faithful-leaders/) by D. Ray Davis
 * [The Missionary Task: Working Yourself out of a Job](https://www.imb.org/2018/11/20/missionary-task-out-of-job/) by D. Ray Davis
+
 ### Evangelism
 * [Evangelism? That's Just Not My Gift](https://www.theupstreamcollective.org/blog/evangelism-not-my-gift) by D. Scott Hildreth
 * [How to Share the Gospel: A Quick Word on Narratives and Themes](https://keelancook.com/2016/08/22/how-to-share-the-gospel-a-quick-word-on-narratives-and-themes/) by Keelan Cook

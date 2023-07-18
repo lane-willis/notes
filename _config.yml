@@ -1,6 +1,6 @@
 title: "The CGCS"
 description: "The documentation site for the missions hub of Southeastern Baptist Theological Seminary"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "pnd"
 search_enabled: true
 

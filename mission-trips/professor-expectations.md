@@ -28,13 +28,13 @@ nav_order: 2
 
 ---
 
-Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructor and trip leaders. Before a trip is approved, created, and opened, professors do initial groundwork to create a trip proposal. The CGCS wants all professors to have the option of developing a trip that could potentially be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that requrest. However, our goal is for professors to develop their own trips with former students or IMB and NAMB field connections that may have.
+Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructor and trip leaders. Before a trip is approved, created, and opened, professors do initial groundwork to create a trip proposal. The CGCS wants all professors to have the option of developing a trip that could potentially be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that requrest. However, our goal is for professors to develop their own trips with former students or IMB and NAMB field connections they may have.
 
 ### Trip Expectations: What makes a good mission trip?
 
-**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with IMB, NAMB, or state convention and association teams. While we may at times run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to server internationally with an IMB field team with Southeastern graduates or students or a NAMB church plant or replant with alumni involved.
+**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with IMB, NAMB, or state convention and association teams. While we may at times run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to serve internationally with an IMB field team with Southeastern graduates or students or a NAMB church plant or replant with alumni involved.
 
-**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective which requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not study tour. It is a ministry practicum. In most instances, the ideal activity involved entry and evangelism work. We always like to see students getting the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as: discipling new believers, leadership development, or healthy church formation.
+**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective which requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not study tour. It is a ministry practicum. In most instances, the ideal activity involve entry and evangelism work. We always like to see students getting the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as: discipling new believers, leadership development, or healthy church formation.
 
 
 ### Before the Trip is Approved and Promoted
@@ -54,7 +54,7 @@ As a professor is generating a trip prospectus, the following are things to do i
    * This also includes information about visas, immunizations, and the country's needs.
    * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
    * You also need to research the safety of the area you will be going. You can check some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
-2. Be aware of local culture. Word directly with the field partners on the ground where the mission trip will be located, identifying needs and goals of current teams on the ground.
+2. Be aware of local culture. Work directly with the field partners on the ground where the mission trip will be located, identifying needs and goals of current teams on the ground.
 3. Submit a mission trip prospectus form by the end of the Spring semester for the following academic year.
 
 ### After Trip is Approved and is Promoted

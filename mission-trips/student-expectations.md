@@ -4,7 +4,7 @@ title: Mission Trips » Student Expectations
 author: CGCS
 parent: Mission Trips
 date: 2023-07-12
-nav_order: 4
+nav_order: 1
 
 ---
 

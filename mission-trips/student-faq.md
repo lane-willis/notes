@@ -4,7 +4,7 @@ title: Mission Trips » Student FAQ
 author: Keelan Cook
 parent: Mission Trips
 date: 2023-07-12
-nav_order: 3
+nav_order: 2
 
 ---
 

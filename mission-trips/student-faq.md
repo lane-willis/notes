@@ -24,6 +24,10 @@ nav_order: 3
 
 ---
 
+## General Questions
+
+---
+
 ### What is a missions practicum?
    * When looking at your degree requirements, you may have noticed a section telling you to choose a practicum option. A missions practicum is a class that blends hands-on learning with academic instruction. These come in three forms: North American Practicum, International Practicum, and Missions Practicum. The North American Practicum requirement is fulfilled by going on a mission trip to a location in North America with SEBTS. The International Practicum requirement is fulfilled by going on a mission trip to a location internationally with SEBTS. The missions practicum is an option of going on a trip with IMB, NAMB, or your church. See question 7 for more details about this option.
 
@@ -126,9 +130,12 @@ nav_order: 3
 
 ### What if I raise over what I need?
    * If a student raises more support than is due for their trip, the amount that has been over-raised is dispersed to students in need of trip funding.
+
 ### How much does a mission trip normally cost?
    * North American trips typically cost **insert cost here**. International trips typically cost **insert cost here**.
+
 ### How much money should I bring with me on the trip?
    * You should not have to bring a lot of money with you on the trip since the travel, housing, and food costs are covered. If you want to buy souvenirs, you will have to provide your funding. Some countries accept the American dollar, while many countries are converting to cashless payment methods. Bringing a credit/debit card with you is probably sufficient for most cases.
+
 ### Do I need to get a debit/credit card that works overseas?
    * Many debit/credit cards have ATM/Overseas fees that can cost you a lot of money. It is not necessary to have a travel credit or debit card that works overseas since you will not be paying for the trip out of your pocket, but it could be nice to look into a card with no ATM fees for later travel.

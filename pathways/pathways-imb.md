@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pathways » IMB
+title: Pathways » International Missions
 author: Keelan Cook
 parent: Great Commission Pathways
 has_children: true

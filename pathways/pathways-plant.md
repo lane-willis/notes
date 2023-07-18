@@ -1,5 +1,5 @@
 ---
-title: Pathways » Plant
+title: Pathways » North American Church Planting
 date: 2020-12-22
 author: Keelan Cook
 parent: Great Commission Pathways
@@ -12,7 +12,7 @@ nav_order: 3
 
 We are currently developing web resources for our planting pathway. Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://ubahouston.org).
 
-### Pathways » Planting
+### Pathways » North American Church Planting
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts FIND REFERENCES).
 
 For the gospel to grow to the ends of the earth, someone must take it there. The IMB’s Foundations document states it this way:

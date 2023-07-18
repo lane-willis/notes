@@ -3,14 +3,13 @@ title: Advocacy Team Overview
 author: Keelan Cook
 layout: page
 created: 2021-02-12
-parent: Pathways » IMB
-grand_parent: Great Commission Pathways
-nav_order: 4
+parent: Church Resources
+nav_order: 2
 ---
 
 ![Advocacy Banner](https://i.imgur.com/JkzxoQ7.png)
 
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>

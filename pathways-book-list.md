@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: page
 title: Reading List
 author: Keelan Cook
 date: 2020-12-20

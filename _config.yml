@@ -8,5 +8,5 @@ search_enabled: true
 logo:
 
 # Back to top link
-enable_back_to_top: true
+back_to_top: true
 back_to_top_text: "Back to top"

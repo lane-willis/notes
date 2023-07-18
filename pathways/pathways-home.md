@@ -16,6 +16,6 @@ We are currently developing the web resources for onboarding students into the G
 Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
 
 ## The Pathways
-* [Pathways » IMB](/pathways/pathways-imb.md)
-* [Pathways » Planting](/pathways/pathways-plant.html)
-* [Pathways » Replanting](/pathways/pathways-replant.html/)
+* [Pathways » IMB](/missions-center/pathways/pathways-imb.html)
+* [Pathways » Planting](/missions-center/pathways/pathways-plant.html)
+* [Pathways » Replanting](/missions-center/pathways/pathways-replant.html/)

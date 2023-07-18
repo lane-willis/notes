@@ -2,7 +2,7 @@ title: "The CGCS"
 description: "The documentation site for the missions hub of Southeastern Baptist Theological Seminary"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "pnd"
-search_enabled: false
+search_enabled: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo:

@@ -50,4 +50,4 @@ For those participants who are actively applying for the IMB, all application pa
 
 ---
 
-[Return to Main Menu](https://pathways.ml/pathways-imb/)
+[Return to Main Menu](/missions-center/pathways/pathways-imb.html)

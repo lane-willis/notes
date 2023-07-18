@@ -18,4 +18,4 @@ Feel free to check back on this page at a later date. If you would like to conta
 ## The Pathways
 * [Pathways » IMB](/missions-center/pathways/pathways-imb.html)
 * [Pathways » Planting](/missions-center/pathways/pathways-plant.html)
-* [Pathways » Replanting](/missions-center/pathways/pathways-replant.html/)
+* [Pathways » Replanting](/missions-center/pathways/pathways-replant.html)

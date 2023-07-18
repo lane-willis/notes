@@ -16,10 +16,10 @@ Pathways » IMB is a cooperative equipping cohort facilitated by the [Center for
 
 ## IMB Information
 * [Pathways » IMB Intro](/missions-center/imb/pathways-imb-intro.html)
-* [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide.html)
-* [Pathways » IMB Semester 1 Syllabus](/imb/pathways-imb-semster-1-syllabus.html)
-* [Pathways » IMB Advocacy Teams](/imb/advocacy-team-overview.html)
-* [Pathways » IMB FAQ](/imb/pathways-imb-faq.html/)
+* [Pathways » IMB Instructional Guide](/missions-center/imb/pathways-imb-instructional-guide.html)
+* [Pathways » IMB Semester 1 Syllabus](/missions-center/imb/pathways-imb-semster-1-syllabus.html)
+* [Pathways » IMB Advocacy Teams](/missions-center/imb/advocacy-team-overview.html)
+* [Pathways » IMB FAQ](/missions-center/imb/pathways-imb-faq.html)
 
 ---
 

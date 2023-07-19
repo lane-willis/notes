@@ -16,12 +16,12 @@ This is the parent page for documentation within the CGCS. It includes a navigat
 
 * [Github FlowChart](/missions-center/cgcs-staff-information/github-flowchart.html)
 * [CGCS Office Space Breakdown](/missions-center/cgcs-staff-information/cgcs-space-breakdown.html)
-* [Github Information](/missions-center/cgcs-staff-information/github/github.html)
+* [Github Home](/missions-center/cgcs-staff-information/github/github.html)
   1. [Introduction](/missions-center/cgcs-staff-information/github/github-introduction.html)
   2. What is a repository?
   3. Do you know about the period?
   4. What is markdown?
-* [Hubspot Information](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+* [Hubspot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
   1. [Introduction](/missions-center/cgcs-staff-information/hubspot/hubspot-introduction.html)
   2. [How do I learn about Hubspot?](/missions-center/cgcs-staff-information/hubspot/hubspot-help.html)
   3. [Property Triage](/missions-center/cgcs-staff-information/hubspot/property-triage.html)
@@ -30,7 +30,7 @@ This is the parent page for documentation within the CGCS. It includes a navigat
   6. [Forms](/missions-center/cgcs-staff-information/hubspot/forms-hubspot.html)
   7. Reporting
   8. Marketing Emails
-* [Wordpress Information](/missions-center/cgcs-staff-information/wordpress/wordpress.html)
+* [Wordpress Home](/missions-center/cgcs-staff-information/wordpress/wordpress.html)
   1. [Introduction](/missions-center/cgcs-staff-information/wordpress/wordpress-introduction.html)
   2. Pages
   3. Forms

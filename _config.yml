@@ -17,4 +17,4 @@ aux_links:
     - "//www.thecgcs.org"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true

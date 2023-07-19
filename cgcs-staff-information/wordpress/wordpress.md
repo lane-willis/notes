@@ -6,6 +6,8 @@ nav_order: 3
 parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
+has_children: true
+has_toc: false
 
 ---
 

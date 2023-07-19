@@ -4,6 +4,7 @@ title: Example Syllabus
 Author: Lane Willis
 Date: 2023-07-12
 parent: Mission Trips
+grand_parent: For Faculty
 nav_order: 3
 
 ---

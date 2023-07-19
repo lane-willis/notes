@@ -3,6 +3,7 @@ layout: page
 title: Mission Trips » Professor FAQ
 author: Keelan Cook
 parent: Mission Trips
+grand_parent: For Faculty
 date: 2023-07-12
 nav_order: 2
 

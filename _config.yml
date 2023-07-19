@@ -10,15 +10,16 @@ logo:
 
 # Aux links for the upper right navigation
 aux_links:
-  "The CGCS": https://www.thecgcs.org/
+  "CGCS Main Website": https://www.thecgcs.org/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
 # External navigation links
 nav_external_links:
-  - title: The CGCS
+  - title: CGCS Main Website
     url: https://www.thecgcs.org/
+    hide_icon: true
 
 # Footer content
 # appears at the bottom of every page's main content

@@ -2,7 +2,7 @@
 layout: page
 title: IMB
 author: Keelan Cook
-parent: Denominational Partnerships
+parent: For Partners
 has_children: true
 nav_order: 1
 has_toc: false

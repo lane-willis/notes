@@ -5,7 +5,6 @@ type: page
 nav_order: 2
 parent: Student Practicums
 grand_parent: For Students
-has_children: true
 created: 2022-10-13
 
 ---

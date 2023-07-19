@@ -3,6 +3,7 @@ title: Student Practicums
 author: Keelan Cook
 type: page
 nav_order: 3
+parent: For Students
 has_children: true
 created: 2022-10-13
 

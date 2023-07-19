@@ -23,11 +23,11 @@ This is the parent page for documentation within the CGCS. It includes a navigat
   4. What is markdown?
 * [Hubspot Information](/missions-center/cgcs-staff-information/Hubspot/Hubspot.html)
   1. [Introduction](/missions-center/cgcs-staff-information/Hubspot/hubspot-introduction.html)
-  2. How do I learn about Hubspot?
-  3. Property Triage
-  4. Importing and Exporting
-  5. Pathways
-  6. Forms
+  2. [How do I learn about Hubspot?](/missions-center/cgcs-staff-information/Hubspot/hubspot-help.html))
+  3. [Property Triage](/missions-center/cgcs-staff-information/Hubspot/property-triage.html))
+  4. [Importing and Exporting](/missions-center/cgcs-staff-information/Hubspot/import-export-hubspot.html))
+  5. [Pathways](/missions-center/cgcs-staff-information/Hubspot/hubspot-pathways.html))
+  6. [Forms](/missions-center/cgcs-staff-information/Hubspot/forms-hubspot.html))
   7. Reporting
   8. Marketing Emails
 * [Wordpress Information](/missions-center/cgcs-staff-information/Wordpress/Wordpress.html)

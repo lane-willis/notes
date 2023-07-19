@@ -3,6 +3,7 @@ layout: page
 title: Pathways » International Missions
 author: Keelan Cook
 parent: Great Commission Pathways
+grand_parent: For Students
 has_children: true
 nav_order: 1
 has_toc: false

@@ -4,6 +4,7 @@ author: Keelan Cook
 type: page
 nav_order: 1
 has_children: true
+parent: For Students
 created: 2022-10-13
 has_toc: false
 

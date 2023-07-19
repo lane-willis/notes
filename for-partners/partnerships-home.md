@@ -2,7 +2,7 @@
 title: For Partners
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 3
 has_children: true
 created: 2023-07-17
 

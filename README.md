@@ -21,6 +21,8 @@ In addition to a resource hub, we desire that the site itself will become a tool
 ## Connect
 If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at [our main website](https://thecgcs.org).
 
+---
+
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
@@ -29,7 +31,7 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
+    toggleDarkMode.textContent = 'Dark Mode';
   } else {
     jtd.setTheme('dark');
     toggleDarkMode.textContent = 'Return to the light side';

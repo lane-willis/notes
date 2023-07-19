@@ -2,7 +2,7 @@
 title: For Faculty
 author: Lane Willis
 type: page
-nav_order: 1
+nav_order: 2
 has_children: true
 created: 2023-07-17
 

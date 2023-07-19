@@ -4,7 +4,7 @@ layout: page
 title: Reading List
 author: Keelan Cook
 date: 2020-12-20
-nav_order: 6
+nav_order: 4
 
 ---
 

@@ -4,7 +4,7 @@ author: Keelan Cook
 type: page
 nav_order: 1
 parent: Church Resources
-has_children: true
+grand_parent: For Partners
 created: 2021-02-06
 
 ---

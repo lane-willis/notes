@@ -4,6 +4,7 @@ author: Keelan Cook
 layout: page
 created: 2021-02-12
 parent: Church Resources
+grand_parent: For Partners
 nav_order: 2
 ---
 

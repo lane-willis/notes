@@ -1,5 +1,5 @@
 ---
-title: Hubspot Information
+title: Hubspot Home
 author: Lane Willis
 type: page
 nav_order: 3

@@ -3,7 +3,7 @@ title: Pathways
 author: Lane Willis
 type: page
 nav_order: 5
-parent: Hubspot Information
+parent: Hubspot Home
 grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true

@@ -1,5 +1,5 @@
 ---
-title: WordPress Information
+title: WordPress Home
 author: Lane Willis
 type: page
 nav_order: 3
@@ -11,5 +11,5 @@ has_toc: false
 
 ---
 
-# WordPress Introduction
+# WordPress Home Page
 This is the landing page for everything WordPress. It holds a table of contents for users to be able to access easily the children pages for WordPress. The children pages will include links and information that will enable those who fill this role to be able to jump into WordPress.

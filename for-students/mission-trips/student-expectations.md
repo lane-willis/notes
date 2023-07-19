@@ -3,6 +3,7 @@ layout: page
 title: Mission Trips » Student Expectations
 author: CGCS
 parent: Mission Trips
+grand_parent: For Students
 date: 2023-07-12
 nav_order: 1
 

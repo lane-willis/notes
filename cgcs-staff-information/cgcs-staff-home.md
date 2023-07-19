@@ -23,8 +23,8 @@ This is the parent page for documentation within the CGCS. It includes a navigat
   4. What is markdown?
 * [Hubspot Information](/missions-center/cgcs-staff-information/Hubspot/Hubspot.html)
   1. [Introduction](/missions-center/cgcs-staff-information/Hubspot/hubspot-introduction.html)
-  2. Property Triage
-  3. Where to get information?
+  2. How do I learn about Hubspot?
+  3. Property Triage
   4. Importing and Exporting
   5. Pathways
   6. Forms

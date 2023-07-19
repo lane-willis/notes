@@ -1,8 +1,8 @@
 ---
-title: Hubspot Introduction
+title: Pathways
 author: Lane Willis
 type: page
-nav_order: 1
+nav_order: 5
 parent: Hubspot Information
 grand_parent: CGCS Staff
 created: 2023-07-13

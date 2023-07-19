@@ -1,8 +1,8 @@
 ---
-title: Hubspot Introduction
+title: Importing and Exporting
 author: Lane Willis
 type: page
-nav_order: 1
+nav_order: 4
 parent: Hubspot Information
 grand_parent: CGCS Staff
 created: 2023-07-13

@@ -3,7 +3,7 @@ title: Cohort Syllabus 1
 author: Keelan Cook
 created: 2021-03-23
 layout: page
-parent: Pathways » IMB
+parent: Pathways » International Missions
 grand_parent: Great Commission Pathways
 nav_order: 3
 ---

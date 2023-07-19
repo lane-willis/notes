@@ -3,7 +3,7 @@ layout: page
 title: IMB FAQs
 author: Keelan Cook
 date: 2020-12-15
-parent: Pathways » IMB
+parent: Pathways » International Missions
 grand_parent: Great Commission Pathways
 nav_order: 5
 

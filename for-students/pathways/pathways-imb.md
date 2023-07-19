@@ -6,7 +6,6 @@ parent: Great Commission Pathways
 grand_parent: For Students
 has_children: true
 nav_order: 1
-has_toc: false
 created: 2020-12-01
 
 ---
@@ -20,7 +19,6 @@ Pathways » IMB is a cooperative equipping cohort facilitated by the [Center for
 * [Pathways » IMB Intro](/missions-center/imb/pathways-imb-intro.html)
 * [Pathways » IMB Instructional Guide](/missions-center/imb/pathways-imb-instructional-guide.html)
 * [Pathways » IMB Semester 1 Syllabus](/missions-center/imb/imb-semester-1-syllabus.html)
-* [Pathways » IMB Advocacy Teams](/missions-center/imb/advocacy-team-overview.html)
 * [Pathways » IMB FAQ](/missions-center/imb/pathways-imb-faq.html)
 
 ---

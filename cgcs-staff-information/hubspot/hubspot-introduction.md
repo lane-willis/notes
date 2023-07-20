@@ -1,5 +1,5 @@
 ---
-title: Hubspot Introduction
+title: HubSpot Introduction
 author: Lane Willis
 type: page
 nav_order: 1

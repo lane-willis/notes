@@ -10,9 +10,79 @@ search_exclude: true
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+# HubSpot Help
+{: .no_toc }
 
-# HubSpot Introduction
-This is the landing page for everything HubSpot. It holds a table of contents for users to be able to access easily the children pages for HubSpot. The children pages will include links and information that will enable those who fill this role to be able to jump into HubSpot.
+---
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+HubSpot has done a very good job at building out a [knowledge base](https://knowledge.hubspot.com/get-started) that is quite detailed, as well as building out videos to guide you in learning on their very own [HubSpot Academy](https://app.hubspot.com/academy/22192554?LC004=Control). These two sources are the easiest place to go to find your answers. There is also a whole community that you gain access to when you are a client of HubSpot. This community is where users submit ideas for future development and are able to ask others about the issues they are experiencing when using HubSpot. All three of these are great places to go to find information. Below, I will lists links to documents or videos that I found useful when learning about HubSpot.
+
+### Property Help
+
+#### Documents
+
+#### Videos
+
+### Import Help
+
+#### Documents
+[Set up Import File](https://knowledge.hubspot.com/crm-setup/set-up-your-import-file?_ga=2.142504369.2090959854.1655392269-583420909.1655392269)
+
+
+#### Videos
+
+### Email Help
+
+#### Documents
+[Logging Emails by BCC](https://knowledge.hubspot.com/settings/log-email-in-your-crm-with-the-bcc-or-forwarding-address)
+[Logging Email Replies](https://knowledge.hubspot.com/email/log-email-replies-in-the-crm)
+[Troubleshoot Email Logging](https://knowledge.hubspot.com/email-tracking/troubleshooting-the-hubspot-sales-office-365-add-in#emails-are-not-being-tracked)
+[Recurring Email Set Up](https://blog.orangemarketing.com/how-to-send-automated-recurring-emails-using-hubspot-workflows)
+[Connect Email Inbox](https://knowledge.hubspot.com/email-tracking/connect-your-inbox-to-hubspot)
+[Install HubSpot Sales Add-In](https://knowledge.hubspot.com/connected-email/how-to-install-hubspot-sales)
+[Customize Settings in Add-In](https://knowledge.hubspot.com/email-tracking/customize-your-hubspot-sales-office-365-add-in)
+
+#### Videos
+
+### Meetings Help
+
+#### Documents
+[Connect Calendar](https://knowledge.hubspot.com/meetings-tool/use-meetings)
+
+#### Videos
+
+### Deals Help
+
+#### Documents
+
+[Customize Deals/Pipelines](https://knowledge.hubspot.com/crm-deals/set-up-and-customize-your-deal-pipelines-and-deal-stages)
+
+[Deal Properties](https://knowledge.hubspot.com/crm-deals/hubspots-default-deal-properties)
+
+#### Videos
+
+### Workflows/Automation Help
+
+#### Documents
+[Create Workflows](https://knowledge.hubspot.com/workflows/create-workflows)
+
+#### Videos
+[Using Workflows](https://app.hubspot.com/academy/22192554/lessons/589/2943?language=EN)
+
+### Reporting Help
+
+#### Documents
+[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+
+#### Videos

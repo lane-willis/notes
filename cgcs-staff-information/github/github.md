@@ -16,4 +16,7 @@ has_toc: false
 # Github Home Page
 This is the landing page for everything GitHub. It holds a table of contents for users to be able to access easily the children pages for GitHub. The children pages will include links and information that will enable those who fill this role to be able to jump into GitHub.
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+1. [Introduction](/missions-center/cgcs-staff-information/github/github-introduction.html)
+2. [What is a repository?](/missions-center/cgcs-staff-information/github/github-repository.html)
+3. [Do you know about the period?](/missions-center/cgcs-staff-information/github/github-dev.html)
+4. [What is markdown?]((/missions-center/cgcs-staff-information/github/what-is-markdown.html))

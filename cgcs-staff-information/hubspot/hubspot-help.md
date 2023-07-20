@@ -28,7 +28,7 @@ search_exclude: true
 
 HubSpot has done a very good job at building out a [knowledge base](https://knowledge.hubspot.com/get-started) that is quite detailed, as well as building out videos to guide you in learning on their very own [HubSpot Academy](https://app.hubspot.com/academy/22192554?LC004=Control). These two sources are the easiest place to go to find your answers. There is also a whole community that you gain access to when you are a client of HubSpot. This community is where users submit ideas for future development and are able to ask others about the issues they are experiencing when using HubSpot. All three of these are great places to go to find information. Below, I will lists links to documents or videos that I found useful when learning about HubSpot. This list is not extensive. When learning HubSpot, be sure to utilize the knowledge base and academy! They will be your friends!
 
-## HubSpot Introduction
+## HubSpot Basics
 
 ### Documents
 [Get Started](https://knowledge.hubspot.com/get-started)  

@@ -11,7 +11,6 @@ search_exclude: true
 ---
 
 # Property Triage
-
 {: .no_toc }
 
 This page designates the kinds of properties we have in the HubSpot system.
@@ -40,9 +39,13 @@ This page designates the kinds of properties we have in the HubSpot system.
 
 ## Ways of Gathering Data
    * The CGCS utilizes forms for events, mission trips, and other activities. Not all forms will correspond to Hubspot properties. However, a good amount of forms will utilize many of the properties above. Some form software can integrate directly with Hubspot which allows us to integrate this with our database, creating less work to manually input or import our data repeatedly.
-   * Through Powercampus and other databases via Registrar, FAAD, Financial Aid, and HR.
+   * To get data for the CRM, we have utilized Powercampus and other databases via Registrar, FAAD, Financial Aid, and HR. The people you might need to ask for this data changes regularly, but someone in this office should be able to help you find the data you need. After you receive data from them, you would then import that into HubSpot.
 
 ## Property List
+This is not an exhaustive list of the properties in HubSpot, but this should get you acclimated to what kind of data that the CGCS stores in HubSpot.
+
+### General
+
 Record ID – This is the number given to a new contact after import. This is assigned by Hubspot and can be used to import information for contacts later. This information cannot be changed.
 
 ### Students
@@ -50,6 +53,8 @@ Record ID – This is the number given to a new contact after import. This is as
 Student First Name – This property is used to designate a student’s first name. It is stored in the first name property overall. This is the given first name from PowerCampus. Some students have submitted forms using their chosen first name as well. This data is stored under first name. The last used first name with associated email is what is kept.  
 
 Student Last Name – This property is used to designate a student’s last name. This is the given last name from PowerCampus. Some students have submitted forms using their last name as well. This data is stored under last name. The last used name with associated email is what is kept.  
+
+Student Preferred Name - This property is used to designate the name a student prefers to go by instead of their given first name. This could be a nickname, middle name, etc. This property is one that we made and is not needed in making records.
 
 Student ID – This property is used to designate a student’s ID number with the school. This is the student ID found in PowerCampus. This is currently used in 21,467 contacts.  
 

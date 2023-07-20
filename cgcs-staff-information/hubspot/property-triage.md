@@ -28,13 +28,15 @@ This page designates the kinds of properties we have in the HubSpot system.
 
 ---
 
-## Level 1: Needed Properties
+## Property Levels
+
+### Level 1: Needed Properties
    * Record ID, Student First and Last name, Student ID, Student Email, Student Degree, Student Program, Student Major, Student Desired Pathway/Ministry Calling, Student Mission Experience, Student Previous Ministry Experience, Student IMB Status, all mission trip properties, Employee names, employee emails.
 
-## Level 2: Useful Properties
+### Level 2: Useful Properties
    * Student preferred email, preferred name, student status, Employee ID, Faculty Designation, student phone number.
 
-## Level 3: Not Needed Properties
+### Level 3: Not Needed Properties
    * Student GPA, student classes completed, student credits completed, student Social, student children information, student birth date, student prior degrees, student health data, student financial records, student emergency contact information (except for those who submit that to us for mission trips. Will not store in Hubspot).
 
 ## Ways of Gathering Data

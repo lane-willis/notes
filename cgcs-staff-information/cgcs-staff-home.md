@@ -28,8 +28,8 @@ This is the parent page for documentation within the CGCS. It includes a navigat
   4. [Importing and Exporting](/missions-center/cgcs-staff-information/hubspot/import-export-hubspot.html)
   5. [Pathways](/missions-center/cgcs-staff-information/hubspot/hubspot-pathways.html)
   6. [Forms](/missions-center/cgcs-staff-information/hubspot/forms-hubspot.html)
-  7. Reporting
-  8. Marketing Emails
+  7. [Reporting](/missions-center/cgcs-staff-information/hubspot/reporting-hubspot.html)
+  8. [Marketing Emails](/missions-center/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
 * [Wordpress Home](/missions-center/cgcs-staff-information/wordpress/wordpress.html)
   1. [Introduction](/missions-center/cgcs-staff-information/wordpress/wordpress-introduction.html)
   2. [Pages](/missions-center/cgcs-staff-information/wordpress/wordpress-pages.html)

@@ -132,3 +132,5 @@ Employee ID – This property is used to designate an employee’s ID with the s
 Job Title – This property is used to designate an employee’s job title. Some of this information was imported by Hubspot through internet capabilities, through one-to-one email signatures, and through the import from HR designating some job titles. Currently 1,860 contacts have this property filled out.  
 
 Department – This property is used to designate an employee’s department at their location. Some of this information was imported by Hubspot through internet capabilities, through one-to-one email signatures, and through the import from HR designating some job titles. Currently 500 contacts have this property filled.
+
+[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)

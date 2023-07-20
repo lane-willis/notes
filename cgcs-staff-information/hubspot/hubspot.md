@@ -12,7 +12,7 @@ has_toc: false
 ---
 
 # HubSpot Home Page
-This is the landing page for everything HubSpot. It holds a table of contents for users to be able to access easily the children pages for HubSpot. The children pages will include links and information that will enable those who fill this role to be able to jump into HubSpot.
+This is the landing page for everything HubSpot. It holds a table of contents for users to be able to access easily the children pages for HubSpot. The children pages will include links and information that will enable those who fill this role to be able to jump into HubSpot. I will not go super in-depth for HubSpot because HubSpot has a really great knowledge base, documentation, and academy to teach users. If you are the one running HubSpot for the team, utilize these trainings to get up and running. I will link to some good trainings in the 'How do I learn about HubSpot' page.
 
 1. [Introduction](/missions-center/cgcs-staff-information/hubspot/hubspot-introduction.html)
 2. [How do I learn about HubSpot?](/missions-center/cgcs-staff-information/hubspot/hubspot-help.html)

@@ -83,6 +83,7 @@ HubSpot has done a very good job at building out a [knowledge base](https://know
 ## Reporting Help
 
 ### Documents
-[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)  
 
 ### Videos
+
+[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)

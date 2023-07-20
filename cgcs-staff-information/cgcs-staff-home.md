@@ -32,6 +32,6 @@ This is the parent page for documentation within the CGCS. It includes a navigat
   8. Marketing Emails
 * [Wordpress Home](/missions-center/cgcs-staff-information/wordpress/wordpress.html)
   1. [Introduction](/missions-center/cgcs-staff-information/wordpress/wordpress-introduction.html)
-  2. Pages
-  3. Forms
-  4. Private or Public?
+  2. [Pages](/missions-center/cgcs-staff-information/wordpress/wordpress-pages.html)
+  3. [Forms](/missions-center/cgcs-staff-information/wordpress/wordpress-forms.html)
+  4. [Private or Public?](/missions-center/cgcs-staff-information/wordpress/wp-private-or-public.html)

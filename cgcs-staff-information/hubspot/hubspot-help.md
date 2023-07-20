@@ -69,7 +69,6 @@ HubSpot has done a very good job at building out a [knowledge base](https://know
 ### Documents
 
 [Customize Deals/Pipelines](https://knowledge.hubspot.com/crm-deals/set-up-and-customize-your-deal-pipelines-and-deal-stages)  
-
 [Deal Properties](https://knowledge.hubspot.com/crm-deals/hubspots-default-deal-properties)  
 
 ### Videos
@@ -87,10 +86,12 @@ HubSpot has done a very good job at building out a [knowledge base](https://know
 ## Reporting Help
 
 ### Documents
-[Custom Reports])https://knowledge.hubspot.com/reports/create-custom-reports)  
+[Custom Reports](https://knowledge.hubspot.com/reports/create-custom-reports)  
 
 ### Videos
 [HubSpot Reporting](https://app.hubspot.com/academy/22192554/tracks/98/intro)  
 [Designing Dashboards](https://app.hubspot.com/academy/22192554/lessons/726/3702)  
 
-[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+
+
+**[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)**

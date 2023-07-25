@@ -42,6 +42,18 @@ This page designates the kinds of properties we have in the HubSpot system.
 ## Ways of Gathering Data
    * The CGCS utilizes forms for events, mission trips, and other activities. Not all forms will correspond to Hubspot properties. However, a good amount of forms will utilize many of the properties above. Some form software can integrate directly with Hubspot which allows us to integrate this with our database, creating less work to manually input or import our data repeatedly.
    * To get data for the CRM, we have utilized Powercampus and other databases via Registrar, FAAD, Financial Aid, and HR. The people you might need to ask for this data changes regularly, but someone in this office should be able to help you find the data you need. After you receive data from them, you would then import that into HubSpot.
+   * Student Data
+       * Emailed Will Johnston to get updated records regarding active students after add/drop date and graduated students after the semester was over.
+       * Emailed Will Johnston (Registrar) and Caden Farr (Alumni Development) to get historical records to back-fill data to aid in mission trips and sending data.
+       * As I peruse and attempt to make my data more accurate, I send Will random subsets of data that I need completed. Thus, my one and only point of contact for most projects was Will. He pulled most of the data from Powercampus for me. This sounds like it might be changing to a SEBTS Home report.
+       * For ministry calling/desired pathway, we have not been able to pull the dataset yet. It is currently in PowerBI and unaccessible.
+   * Employee Data
+       * Emailed Dawn Satterwhite to get an active list of employees at SEBTS and match those with current students.
+       * Bryan Underwood at IT is looking into getting some employee data that I am missing. It sounds like he has access to some of the historical data that I might need.
+   * All of these requests for data were answered by email as an excel document. I then imported the data into Hubspot.
+       * Excel documents are dated at some points and not on others in my email.
+       * Pretty much, PowerCampus has been our source of truth. We have been pulling data from that through Will Johnston.
+
 
 ## Property List
 This is not an exhaustive list of the properties in HubSpot, but this should get you acclimated to what kind of data that the CGCS stores in HubSpot.

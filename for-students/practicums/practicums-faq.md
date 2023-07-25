@@ -38,3 +38,7 @@ created: 2022-10-13
 ### Do I have to go on an international trip to fulfill my missions practicum requirement?
    * If you are in an internationally focused degree, the answer is yes. If you are in a less specific degree like Missiology, then you can go on an international or North American trip to fulfill your requirements. If you are in a North American-focused degree, you are required to go on a North American trip.
 
+---
+
+[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)
+

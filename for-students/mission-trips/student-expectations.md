@@ -69,3 +69,7 @@ nav_order: 1
 2. Turn in all the other assignments that are due as required in the syllabus.
 3. Praise the Lord for what He did during your time on the mission trip.
 4. Share stories with others to encourage them!
+
+---
+
+[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)

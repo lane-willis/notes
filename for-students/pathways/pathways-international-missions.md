@@ -24,4 +24,4 @@ Pathways » International Missions is a cooperative equipping cohort facilitated
 
 ---
 
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)

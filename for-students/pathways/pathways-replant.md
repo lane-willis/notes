@@ -24,4 +24,4 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 ---
 
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)

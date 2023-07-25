@@ -140,3 +140,7 @@ nav_order: 2
 
 ### Do I need to get a debit/credit card that works overseas?
    * Many debit/credit cards have ATM/Overseas fees that can cost you a lot of money. It is not necessary to have a travel credit or debit card that works overseas since you will not be paying for the trip out of your pocket, but it could be nice to look into a card with no ATM fees for later travel.
+
+---
+
+[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)

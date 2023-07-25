@@ -92,6 +92,6 @@ HubSpot has done a very good job at building out a [knowledge base](https://know
 [HubSpot Reporting](https://app.hubspot.com/academy/22192554/tracks/98/intro)  
 [Designing Dashboards](https://app.hubspot.com/academy/22192554/lessons/726/3702)  
 
-
+---
 
 **[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)**

@@ -96,3 +96,7 @@ The pathways we are developing for students is held in HubSpot. These pathways a
 
 ### Women’s Ministry
 * Send this list over to the Women’s Center so they can pursue these people.
+
+---
+
+[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)

@@ -181,5 +181,6 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 
 #### Data Model
 
+---
 
 [Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)

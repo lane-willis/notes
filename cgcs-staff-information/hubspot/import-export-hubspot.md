@@ -18,7 +18,7 @@ search_exclude: true
 
 Importing is the process of uploading data into HubSpot. This can be done on any of the pages under the contacts tab. To do so, just navigate to a contact page, then click the button that says import in the top right corner. The button is white with orange lettering and outlined in orange.  
 
-![Import Button](/assets/images/import-button.png)  
+![Import Button](/assets/images/import-button.png)
 
 A great resource on importing files can be found [here.](https://knowledge.hubspot.com/crm-setup/set-up-your-import-file)  
 
@@ -43,3 +43,5 @@ For help from HubSpot [click here.](https://knowledge.hubspot.com/crm-setup/expo
 ---
 
 [Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+
+[def]: /assets/images/import-button.png

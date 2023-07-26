@@ -34,4 +34,4 @@ Listed below is a checklist of information that you will need before you submit 
 
 Professors, for more information, check out the [Professor Expectation page](/missions-center/for-faculty/mission-trips-faculty/professor-expectations.html) and [Professor FAQ page](/missions-center/for-faculty/mission-trips-faculty/professor-faq.html).
 
-Students, feel free to check out the [Student Expectations page](/missions-center/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/missions-center/for-students/mission-trips/student-faq.html).
+For more information on student requirements, feel free to check out the [Student Expectations page](/missions-center/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/missions-center/for-students/mission-trips/student-faq.html).

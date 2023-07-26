@@ -9,14 +9,27 @@ created: 2022-10-13
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+## Prospectus Checklist
 
+---
 
-Welcome to the Mission Trip home page! This space is a repository for our documentation and manuals for mission trips provided through the [Center for Great Commission Studies](https://thecgcs.org). This space is specifically for students! There is a lot of information and many frequensly asked questions, so we want a place online where students, faculty, and staff can find all of that information. 
+Listed below is a checklist of information that you will need before you submit a mission trip prospectus with us. To accurately fill out the mission trip prospectus, please ensure that all information is detailed and fully filled out.
 
-This will not be the place where we advertise or promote new mission trips. You can find that information on [the main website](https://thecgcs.org/trips).
+- [ ] Proposed trip dates
+- [ ] Trip location
+- [ ] Estimated Number of Students
+- [ ] Visa Information (Do those entering need a visa, and if so what is the cost?)
+- [ ] Flight information (Proposed itinerary and cost)
+- [ ] Housing Costs
+- [ ] Food Costs
+- [ ] In-Country Travel Costs
+- [ ] Total cost per person (to the CGCS, not what a student might pay)
+- [ ] Justification for selected location and target audience
+- [ ] Justification if not working with IMB or NAMB
+- [ ] Trip's purpose. Specific details needed as this is used to promote the trips.
+- [ ] Strategy outline
+- [ ] Proposed Syllabus. For an example, [click here.](/missions-center/for-faculty/mission-trips-faculty/syllabus-template.html)
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org/contact/).
 
 ---
 

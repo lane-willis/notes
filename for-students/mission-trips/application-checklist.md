@@ -1,11 +1,11 @@
 ---
+layout: page
 title: Application Checklist
-author: Keelan Cook
-type: page
+author: Lane Willis
 nav_order: 3
-has_children: true
-parent: For Students
-created: 2022-10-13
+parent: Mission Trips
+grand_parent: For Students
+created: 2023-07-26
 
 ---
 
@@ -13,22 +13,19 @@ created: 2022-10-13
 
 ---
 
-Listed below is a checklist of information that you will need before you submit a mission trip prospectus with us. To accurately fill out the mission trip prospectus, please ensure that all information is detailed and fully filled out.
+Listed below is a checklist of information that you will need before you submit a mission trip application with us. To accurately fill out the mission trip application, please ensure to have all documentation and information handy.
 
-- [ ] Proposed trip dates
-- [ ] Trip location
-- [ ] Estimated Number of Students
-- [ ] Visa Information (Do those entering need a visa, and if so what is the cost?)
-- [ ] Flight information (Proposed itinerary and cost)
-- [ ] Housing Costs
-- [ ] Food Costs
-- [ ] In-Country Travel Costs
-- [ ] Total cost per person (to the CGCS, not what a student might pay)
-- [ ] Justification for selected location and target audience
-- [ ] Justification if not working with IMB or NAMB
-- [ ] Trip's purpose. Specific details needed as this is used to promote the trips.
-- [ ] Strategy outline
-- [ ] Proposed Syllabus. For an example, [click here.](/missions-center/for-faculty/mission-trips-faculty/syllabus-template.html)
+- [ ] Name
+- [ ] State of Residence (As shown on Driver's License, Passport, and Real ID)
+- [ ] Student ID
+- [ ] Date of Birth
+- [ ] Citizenship
+- [ ] Passport Number and Country (If an international trip only)
+- [ ] Medical Conditions
+- [ ] Why do you want to go on the trip? Have you ever been on a mission trip?
+- [ ] Emergency Contact Information (Name, Relationship, Number, and Email)
+- [ ] Beneficiary Name and Number
+- [ ] Deposit (Done after submitting application)
 
 
 ---

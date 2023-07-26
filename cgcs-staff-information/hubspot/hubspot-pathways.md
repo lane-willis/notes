@@ -74,6 +74,15 @@ The pathways we are developing for students is held in HubSpot. These pathways a
      * Accepted by a local church to revitalize.
 * Sent out to Replant/Revitalize
 
+### Pastoral Ministry
+* Send this list over to the Pastor’s Center so they can pursue these people.
+
+### Student Ministry
+* Uncertain about where to go with this one at SEBTS. Probably Pastor’s Center again?
+
+### Women’s Ministry
+* Send this list over to the Women’s Center so they can pursue these people.
+
 ### Christian Higher Education
 * Go Meeting with Keelan
 * Discuss Higher Education opportunities. Would you be interested in that overseas?
@@ -87,15 +96,6 @@ The pathways we are developing for students is held in HubSpot. These pathways a
 * Had 2nd Go meeting
 
 ### Not Certain at this Point
-
-### Pastoral Ministry
-* Send this list over to the Pastor’s Center so they can pursue these people.
-
-### Student Ministry
-* Uncertain about where to go with this one at SEBTS. Probably Pastor’s Center again?
-
-### Women’s Ministry
-* Send this list over to the Women’s Center so they can pursue these people.
 
 ---
 

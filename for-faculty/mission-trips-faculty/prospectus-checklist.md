@@ -28,7 +28,7 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Justification if not working with IMB or NAMB
 - [ ] Trip's purpose. Specific details needed as this is used to promote the trips.
 - [ ] Strategy outline
-- [ ] Proposed Syllabus. For an example, [click here.](/missions-center/for-faculty/mission-trips-faculty/syllabus-template.html)
+- [ ] Proposed Syllabus. For an example, [click here.](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)
 
 ---
 

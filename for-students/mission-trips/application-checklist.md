@@ -27,7 +27,7 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Beneficiary Name and Number
 - [ ] Deposit (Done after submitting application)
 
-For a PDF of this application checklist, [please click here](/files/)
+For a downloadable PDF of this application checklist, [please click here.](/files/)
 
 
 ---

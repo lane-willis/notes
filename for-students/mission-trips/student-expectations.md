@@ -29,7 +29,7 @@ nav_order: 1
 
 ---
 
-1. **Make sure your passport is up to date**
+1. **Make sure your passport is up to date.** This means that the passport expiration date is at least 6 months after the trip.
 2. Attend mandatory briefing held by professor.
 3. Complete pre-trip syllabus requirements.
    * This could include required reading, papers, or lectures.

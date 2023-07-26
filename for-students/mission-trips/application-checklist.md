@@ -9,7 +9,7 @@ created: 2023-07-26
 
 ---
 
-## Prospectus Checklist
+## Application Checklist
 
 ---
 
@@ -26,6 +26,8 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Emergency Contact Information (Name, Relationship, Number, and Email)
 - [ ] Beneficiary Name and Number
 - [ ] Deposit (Done after submitting application)
+
+For a PDF of this application checklist, [please click here](/files/)
 
 
 ---

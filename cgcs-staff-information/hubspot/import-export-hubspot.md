@@ -16,7 +16,7 @@ search_exclude: true
 
 ### Importing
 
-Importing is the process of uploading data into HubSpot. This can be done on any of the pages under the contacts tab. To do so, just navigate to a contact page, then click the button that says import in the top right corner. The button is white with orange lettering and outlined in orange.  
+Importing is the process of uploading data into HubSpot. This can be done on any of the pages under the contacts tab. To do so, just navigate to a contact page, then click the button that says import in the top right corner. The button is white with orange lettering and outlined in orange (see image below).  
 
 ![Import Here](/missions-center/assets/images/import-button.png)
 

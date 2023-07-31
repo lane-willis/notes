@@ -12,7 +12,6 @@ created: 2023-07-17
 
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
-
 Welcome to the Church Resources home page! This space is a repository for churches and church leaders. Church leaders will find information about developing a sending culture, identifying and assessing people in their church for missions sending, and tools to equip those people for the sake of the Great Commission.
 
 ## Resource Hub

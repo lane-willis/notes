@@ -15,7 +15,7 @@ Pathways » NAMB is a cooperative pathway facilitated by the [Center for Great C
 
 ---
 
-## NAMB Information
+## NAMB Sub-Pages
 
 ---
 

@@ -15,7 +15,7 @@ Pathways » NC Baptists is a cooperative equipping cohort facilitated by the [Ce
 
 ---
 
-## NC Baptists Information
+## NC Baptists Sub-Pages
 
 ---
 

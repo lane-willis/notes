@@ -10,9 +10,16 @@ search_exclude: true
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+## HubSpot Forms
 
-# HubSpot Introduction
-This is the landing page for everything HubSpot. It holds a table of contents for users to be able to access easily the children pages for HubSpot. The children pages will include links and information that will enable those who fill this role to be able to jump into HubSpot.
+---
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+### Form Information
+
+### Useful Links
+
+* [HubSpot Forms Navigation Knowledgebase](https://knowledge.hubspot.com/marketing-tools/topics#forms)
+* [Create Forms](https://knowledge.hubspot.com/forms/create-forms)
+* [Edit Form Fields](https://knowledge.hubspot.com/forms/edit-your-form-fields)
+* [Customize Layout of Form Fields](https://knowledge.hubspot.com/forms/customize-the-layout-of-your-form-fields)
+* [Export Form Submissions](https://knowledge.hubspot.com/forms/export-form-submissions)

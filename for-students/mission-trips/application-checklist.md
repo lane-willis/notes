@@ -13,7 +13,7 @@ created: 2023-07-26
 
 ---
 
-![Together We Go](/assets/images/together%20we%20go%20sign%20with%20group.jpg)
+![Together We Go](/missions-center/assets/images/together%20we%20go%20sign%20with%20group.jpg)
 
 ---
 

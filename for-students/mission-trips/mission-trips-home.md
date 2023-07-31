@@ -9,7 +9,7 @@ created: 2022-10-13
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+![Three Student Banner](/missions-center/assets/images/three%20student%20t-shirt%20banner.jpg)
 
 
 Welcome to the Mission Trip home page! This space is a repository for our documentation and manuals for mission trips provided through the [Center for Great Commission Studies](https://thecgcs.org). This space is specifically for students! There is a lot of information and many frequensly asked questions, so we want a place online where students, faculty, and staff can find all of that information. 

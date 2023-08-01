@@ -8,7 +8,7 @@ grand_parent: Great Commission Pathways
 nav_order: 5
 
 ---
-If you have additional questions about equipping for international missions through Pathways » IMB, look below for answers to some of our frequently asked questions. If you do not find your question, you can always contact us directly. We would be happy to speak with you and answer any questions you may have. You can [reach us here](mailto:keelan@ubahouston.org).
+If you have additional questions about equipping for international missions through Pathways » IMB, look below for answers to some of our frequently asked questions. If you do not find your question, you can always contact us directly. We would be happy to speak with you and answer any questions you may have. You can [reach us here](mailto:kcook@sebts.edu).
 
 ## Frequently Asked Questions
 

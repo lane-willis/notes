@@ -23,7 +23,7 @@ The goal of this cohort is twofold. By combining a robust equipping process for 
 
 ## Equipped to be a Missionary
 
-Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want UBA churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations. Pathways » IMB will provide a path for your church members from pew to plane in the missionary journey. 
+Missionary sending starts inside the local church. Instead of looking outside of our churches for people to go on our behalf, we want SBC churches to raise up missionaries right from their pews. This is how we multiply gospel laborers, by identifying our own members to send to the nations. Pathways » IMB will provide a path for your church members from pew to plane in the missionary journey. 
 
 ### Character, Calling, and Competencies
 Cross-cultural disciple-making is a challenging task, and it requires a clear sense of calling, a character that is above reproach, and a specific set of competencies to engage in gospel witness across culture and worldview. Over an intense eight months, this cohort will work to develop these three characteristics in the life of the potential sent out one.

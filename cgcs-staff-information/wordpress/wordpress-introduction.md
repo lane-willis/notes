@@ -1,5 +1,5 @@
 ---
-title: Wordpress Introduction
+title: WordPress Introduction
 author: Lane Willis
 type: page
 nav_order: 2

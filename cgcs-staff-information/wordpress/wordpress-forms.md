@@ -1,9 +1,9 @@
 ---
-title: Wordpress Forms
+title: WordPress Forms
 author: Lane Willis
 type: page
 nav_order: 3
-parent: Wordpress Home
+parent: WordPress Home
 grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true

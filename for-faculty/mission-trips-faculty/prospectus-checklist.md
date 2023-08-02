@@ -19,7 +19,7 @@ Faculty and adjuncts can submit a proposal for a trip fitting the overall goals 
 
 ---
 
-Listed below is a checklist of information that you will need before you submit a mission trip prospectus with us. To accurately fill out the mission trip prospectus, please ensure that all information is detailed and fully filled out.
+Listed below is a checklist of information that you will need before you submit a mission trip prospectus with us. To accurately fill out the mission trip prospectus, please ensure that all information is detailed and fully filled out. There is a downloadable PDF of this list below.
 
 - [ ] Proposed trip dates
 - [ ] Trip location
@@ -38,7 +38,7 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-For a downloadable PDF of this checklist, [click here.](/missions-center/files/Mission%20Trips-Professors.pdf)
+For a downloadable PDF of this checklist, **[click here.](/missions-center/files/Mission%20Trips-Professors.pdf)**
 
 ---
 

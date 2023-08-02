@@ -33,7 +33,7 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Beneficiary Name and Number
 - [ ] Deposit (Done after submitting application)
 
-For a downloadable PDF of this application checklist, [please click here.](missions-center/files/Mission%20Trips-Students.pdf)
+For a downloadable PDF of this application checklist, **[please click here.](/missions-center/files/Mission%20Trips-Students.pdf)**
 
 
 ---

@@ -38,7 +38,7 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-For a downloadable PDF of this checklist, **[click here.](/missions-center/files/Mission%20Trips-Professors.pdf)**
+**For a downloadable PDF of this checklist, [click here.](/missions-center/files/Mission%20Trips-Professors.pdf)**
 
 ---
 

@@ -46,8 +46,10 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
       4. Does my church need to be revitalized?
       5. What does it mean to replant a church?
 4. Reading List: This page hosts a reading list resources for students, churches, and denominational partners.
-5. CGCS Main Website Link: This links directly to the CGCS Main Website at www.thecgcs.org
-6. CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
+5. CGCS Main Website Link: This links directly to the CGCS Main Website at www.thecgcs.org.
+
+## Hidden Pages
+CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
    1. GitHub FlowChart
    2. CGCS Office Space Breakdown
    3. GitHub Home

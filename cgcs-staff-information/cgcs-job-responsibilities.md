@@ -44,9 +44,33 @@ Responsibilities:
 
 ### Office Manager and Assistant to the CGCS Director - Kelly Garner
 
-Role: 
+Role: To be the manager of office personnel, finances, budgets, and travel logistics for short-term mission trips. This role combines a myriad of tasks and has their hands in everything the CGCS does. This role is also a front-facing customer service role to students, professors, and guests of SEBTS and the CGCS.
 
 Responsibilities:
+* Communicate with HR about the hiring of new staff members.
+* Approve timecards for the CGCS staff.
+* Reconcile mission trip budgets and the greater CGCS budget through Concur.
+* Process all petty cash, reimbursements, and check requests and deliver the money from Accounting Services to the CGCS staff member or related faculty member.
+* Communicate with students and professors.
+    * Field questions dealing with the CGCS in any capacity.
+    * Answer those questions in a way that represents the CGCS properly.
+    * Answer the phone and listen to voicemails.
+    * Assist with any international travel assistance requests from SEBTS faculty.
+* Assist the CGCS director in whatever capacity they deem necessary.
+* Stay on top of the following areas of responsibility: 
+    * Any facility scheduling requests
+    * Any CGCS maintenance or IT workorders
+    * All office supply orders and needs
+    * Plan or assist with various missions events
+    * Any coordination and direction needed for the CGCS Interns 
+    * All office finances and accounts
+* Create BOT report every Fall and Spring.
+* Process Mission Trip applications.
+    * Create spreadsheet denoting each team.
+    * Communicate with Registrar about the registration for each team member on mission trips.
+* Purchase flights/transportation for each mission trip.
+* Purchase travel insurance for mission trips.
+* Create a notebook for each trip leader.
 
 ### Administrative Assistant - Timothy Waters
 
@@ -58,6 +82,7 @@ Responsibilities:
     * This includes communicating with students on Keelan's behalf to schedule time with them.
 * Respond to emails that come to the CGCS email along with the Office Manager.
 * Help plan events such as Gathering Chapel, Go Conference, and Global Missions Week.
+    * Reserve rooms, order catering, and develop lineups.
 * Work with Digital Media Specialist and Database Coordinator to create forms for events and for the website.
 * Build CampusNet pages for Keelan's classes.
     * Post assignments and due dates.
@@ -67,6 +92,7 @@ Responsibilities:
 * Attend meetings as directed.
 * Edits podcasts and uploads them to Soundcloud.
     * This automatically uploads the podcast to other platforms.
+* Oversee and arrange travel needs for Keelan.
 
 ### Digital Communications Specialist - Meridith Graves
 

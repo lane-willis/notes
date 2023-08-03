@@ -13,6 +13,10 @@ search_exclude: true
 
 ---
 
+Below are the current roles within the CGCS, the current people who fill these roles, and their responsibilities. This page was last updated on 8/3/2023.
+
+---
+
 ### Director - Keelan Cook
 
 Roles: 

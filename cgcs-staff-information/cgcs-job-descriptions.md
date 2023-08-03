@@ -13,6 +13,10 @@ search_exclude: true
 
 ---
 
+Below are the current job descriptions for employees within the CGCS. This page was last updated on 8/3/2023.
+
+---
+
 ### Director
 
 Word:

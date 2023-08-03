@@ -10,6 +10,18 @@ search_exclude: true
 ---
 
 # CGCS Job Responsibilities
+{: .no_toc }
+
+---
+
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ---
 
@@ -19,9 +31,10 @@ Below are the current roles within the CGCS, the current people who fill these r
 
 ### Director - Keelan Cook
 
-Role: To direct the CGCS in becoming the flagship missions center for the SBC. The director is in charge of the day-to-day activities, as well as developing and communicating the vision to staff in the CGCS and to those around them. The director is the face of the CGCS.
+#### Role:
+To direct the CGCS in becoming the flagship missions center for the SBC. The director is in charge of the day-to-day activities, as well as developing and communicating the vision to staff in the CGCS and to those around them. The director is the face of the CGCS.
 
-Responsibilities:
+#### Responsibilities:
 * Serve as the face of the CGCS.
 * Develop the vision for the CGCS and help staff members implement their part of this vision.
 * Develop and maintain relationships with denominational mission partners (IMB, NAMB, SendNC, NC Baptists, etc.).
@@ -38,15 +51,16 @@ Responsibilities:
 
 ### Assistant Director - 
 
-Role: 
+#### Role: 
 
-Responsibilities:
+#### Responsibilities:
 
 ### Office Manager and Assistant to the CGCS Director - Kelly Garner
 
-Role: To be the manager of office personnel, finances, budgets, and travel logistics for short-term mission trips. This role combines a myriad of tasks and has their hands in everything the CGCS does. This role is also a front-facing customer service role to students, professors, and guests of SEBTS and the CGCS.
+#### Role:
+To be the manager of office personnel, finances, budgets, and travel logistics for short-term mission trips. This role combines a myriad of tasks and has their hands in everything the CGCS does. This role is also a front-facing customer service role to students, professors, and guests of SEBTS and the CGCS.
 
-Responsibilities:
+#### Responsibilities:
 * Communicate with HR about the hiring of new staff members.
 * Approve timecards for the CGCS staff.
 * Reconcile mission trip budgets and the greater CGCS budget through Concur.
@@ -74,9 +88,10 @@ Responsibilities:
 
 ### Administrative Assistant - Timothy Waters
 
-Role: To be the administrative aid to Keelan as the director of the CGCS and as a professor. This role also is a front-facing role that does event planning, inter-office facilitation, and student interaction.
+#### Role:
+To be the administrative aid to Keelan as the director of the CGCS and as a professor. This role also is a front-facing role that does event planning, inter-office facilitation, and student interaction.
 
-Responsibilities:
+#### Responsibilities:
 * Handle Keelan's calendar and meeting planning.
     * This includes creating meetings and canceling meetings.
     * This includes communicating with students on Keelan's behalf to schedule time with them.
@@ -96,9 +111,10 @@ Responsibilities:
 
 ### Digital Communications Specialist - Meridith Graves
 
-Role: To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This role is a hybrid role that is mostly behind the camera, but does interact with the above to produce material for the CGCS.
+#### Role:
+To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This role is a hybrid role that is mostly behind the camera, but does interact with the above to produce material for the CGCS.
 
-Responsibilities:
+#### Responsibilities:
 * Post on social media.
     * These include Instagram, Twitter, Facebook, and the CGCS Website.
     * Write relevant captions that grasp the essence of the CGCS and SEBTS.
@@ -117,9 +133,10 @@ Responsibilities:
 
 ### Database Coordinator - Lane Willis
 
-Role: To oversee the formation of our database (HubSpot) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
+#### Role:
+To oversee the formation of our database (HubSpot) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
 
-Responsibilities:
+#### Responsibilities:
 * Ensure HubSpot is up to date with accurate student information.
     * To do so, I communicate with other offices, such as Registrar, IT, and HR.
 * Build reports on HubSpot to accurately display student data.
@@ -135,9 +152,10 @@ Responsibilities:
 
 ### Student Mobilizer - Chloe Rutherford
 
-Role: To mobilize college and seminary students to take the next step in going with SEBTS and NAMB GenSend.
+#### Role:
+To mobilize college and seminary students to take the next step in going with SEBTS and NAMB GenSend.
 
-Responsibilities:
+#### Responsibilities:
 * Meet with students to hear their stories.
 * Promote going with SEBTS and NAMB.
 * Create forms to help gauge interest in GenSend.
@@ -148,15 +166,16 @@ Responsibilities:
 
 ### CGCS Research Fellow - Maggie
 
-Role:
+#### Role:
 
-Responsibilities:
+#### Responsibilities:
 
 ### IMB MAG Role - Rick and Nancy Fraley
 
-Role: To mobilize college and seminary students to take the next step in going with SEBTS and the IMB. This role serves as a liaison between the IMB, SEBTS, and the CGCS.
+#### Role:
+To mobilize college and seminary students to take the next step in going with SEBTS and the IMB. This role serves as a liaison between the IMB, SEBTS, and the CGCS.
 
-Responsibilities:
+#### Responsibilities:
 * Meet with students to hear their stories.
 * Promote going with SEBTS and the IMB.
 * Create cohorts to facilitate missions opportunities and interest.

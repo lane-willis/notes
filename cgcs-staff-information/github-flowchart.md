@@ -52,12 +52,14 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
 CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
    1. GitHub FlowChart
    2. CGCS Office Space Breakdown
-   3. GitHub Home
+   3. CGCS Job Descriptions
+   4. CGCS Job Responsibilities
+   5. GitHub Home
       1. Introduction
       2. What is a repository?
       3. Do you know about the period?
       4. What is markdown?
-   4. HubSpot Home
+   6. HubSpot Home
       1. Introduction
       2. How do I learn about HubSpot?
       3. Property Triage
@@ -66,7 +68,7 @@ CGCS Staff: This page is the navigation page for CGCS Staff to find documentatio
       6. Forms
       7. Reporting
       8. Marketing Emails
-   5. WordPress Home
+   7. WordPress Home
       1. Introduction
       2. Pages
       3. Forms

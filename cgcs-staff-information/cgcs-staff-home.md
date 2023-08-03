@@ -16,6 +16,8 @@ This is the parent page for documentation within the CGCS. It includes navigatio
 
 * [GitHub FlowChart:](/missions-center/cgcs-staff-information/github-flowchart.html) A larger breakdown of the pages on this site that are unlinked. Basically this is a large table of contents.
 * [CGCS Office Space Breakdown](/missions-center/cgcs-staff-information/cgcs-space-breakdown.html)
+* [CGCS Job Descriptions](/missions-center/cgcs-staff-information/cgcs-job-descriptions.html)
+* [CGCS Job Responsibilities](/missions-center/cgcs-staff-information/cgcs-job-responsibilities.html)
 * [GitHub Home](/missions-center/cgcs-staff-information/github/github.html)
   1. [Introduction](/missions-center/cgcs-staff-information/github/github-introduction.html)
   2. [What is a repository?](/missions-center/cgcs-staff-information/github/github-repository.html)

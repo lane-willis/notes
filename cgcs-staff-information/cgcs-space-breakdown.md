@@ -9,6 +9,9 @@ search_exclude: true
 
 ---
 
+# CGCS Space Breakdown
+
+---
 
 ### Is your current workspace supporting your daily tasks, productivity, and overall assisting you in SEBTS mission to equip students to serve the church and fulfill the great commission?
 Yes __X__

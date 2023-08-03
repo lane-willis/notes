@@ -52,12 +52,27 @@ Responsibilities:
 * Function as the right hand man to the director and complete any other tasks that the director might need done.
 * Onboard new employees to tools such as Todoist, Workflowy, CampusNet, etc.
 * Attend meetings as directed.
+* Edits podcasts and uploads them to Soundcloud.
+    * This automatically uploads the podcast to other platforms.
 
 ### Digital Media Specialist - Meridith Graves
 
-Role: 
+Role: To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This role is a hybrid role that is mostly behind the camera, but does interact with the above to produce material for the CGCS.
 
 Responsibilities:
+* Post on social media.
+    * These include Instagram, Twitter, and the CGCS Website.
+    * Write relevant captions that grasp the essence of the CGCS and SEBTS.
+    * Post photos and videos that share the purpose of the CGCS.
+    * **Promote** the CGCS, mission trips, and other events.
+* Communicate with blog writers and proofread articles before posting them to the blog.
+* Build the marketing website on WordPress.
+    * Develop pages and links for users.
+    * Weave together images, links, forms, and text in a way that is appealing and informative.
+* Help plan events and determine where social media is needed.
+* Communicate with the Communications office at SEBTS to develop branding, as well as materials with our brand on them.
+* Upload podcasts to the website and other social media outlets.
+
 
 ### Database Coordinator - Lane Willis
 
@@ -79,9 +94,16 @@ Responsibilities:
 
 ### Student Mobilizer - Chloe Rutherford
 
-Role: 
+Role: To mobilize college and seminary students to take the next step in going with SEBTS and NAMB GenSend.
 
 Responsibilities:
+* Meet with students to hear their stories.
+* Promote going with SEBTS and NAMB.
+* Create forms to help gauge interest in GenSend.
+* Work with the director to advance engagement and student involvement on mission trips.
+* Encourage students to use their summer to serve the Lord and help fulfill the Great Commission.
+* Record meetings in HubSpot and log student interactions.
+* Help others in the office with tasks in dead time.
 
 ### CGCS Research Fellow - Maggie
 
@@ -91,6 +113,14 @@ Responsibilities:
 
 ### IMB MAG Role - Rick and Nancy Fraley
 
-Role: 
+Role: To mobilize college and seminary students to take the next step in going with SEBTS and the IMB. This role serves as a liaison between the IMB, SEBTS, and the CGCS.
 
 Responsibilities:
+* Meet with students to hear their stories.
+* Promote going with SEBTS and the IMB.
+* Create cohorts to facilitate missions opportunities and interest.
+* Work with the director to advance engagement and student involvement on mission trips.
+* Encourage students to use their summer/lives to serve the Lord and help fulfill the Great Commission.
+* Record meetings in HubSpot and log student interactions.
+* Work with local churches and mission pastors to formulate pipelines to the nations.
+* Work with the IMB to discover how best to serve students in their desire to go with the IMB.

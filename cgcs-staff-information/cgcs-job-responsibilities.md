@@ -19,9 +19,22 @@ Below are the current roles within the CGCS, the current people who fill these r
 
 ### Director - Keelan Cook
 
-Role: 
+Role: To direct the CGCS in becoming the flagship missions center for the SBC. The director is in charge of the day-to-day activities, as well as developing and communicating the vision to staff in the CGCS and to those around them. The director is the face of the CGCS.
 
 Responsibilities:
+* Serve as the face of the CGCS.
+* Develop the vision for the CGCS and help staff members implement their part of this vision.
+* Develop and maintain relationships with denominational mission partners (IMB, NAMB, SendNC, NC Baptists, etc.).
+* Communicate with the cabinet about how SEBTS can utilize the Center to help fulfill the Great Commission.
+* Develop front-facing material and missions resources for students, pastors, leaders, and the pews of SBC churches.
+    * Delegating this to staff members to help develop these is possible.
+* Serve as the top of the bottleneck until an AD can take certain areas.
+* Take the brunt of criticism for the work the CGCS produces, if need be.
+* Encourage faculty members to participate in and lead mission trips.
+* Approve proposed mission trips.
+* Work with local churches in developing missional culture and missional activity.
+* Serve as a resource for missions knowledge and missions strategy to students, professors, and local churches.
+* 
 
 ### Assistant Director - 
 
@@ -49,29 +62,31 @@ Responsibilities:
 * Build CampusNet pages for Keelan's classes.
     * Post assignments and due dates.
     * At times, updating syllabi and other resources a class may use.
-* Function as the right hand man to the director and complete any other tasks that the director might need done.
+* Function as the right-hand man to the director and complete any other tasks that the director might need done.
 * Onboard new employees to tools such as Todoist, Workflowy, CampusNet, etc.
 * Attend meetings as directed.
 * Edits podcasts and uploads them to Soundcloud.
     * This automatically uploads the podcast to other platforms.
 
-### Digital Media Specialist - Meridith Graves
+### Digital Communications Specialist - Meridith Graves
 
 Role: To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This role is a hybrid role that is mostly behind the camera, but does interact with the above to produce material for the CGCS.
 
 Responsibilities:
 * Post on social media.
-    * These include Instagram, Twitter, and the CGCS Website.
+    * These include Instagram, Twitter, Facebook, and the CGCS Website.
     * Write relevant captions that grasp the essence of the CGCS and SEBTS.
     * Post photos and videos that share the purpose of the CGCS.
-    * **Promote** the CGCS, mission trips, and other events.
-* Communicate with blog writers and proofread articles before posting them to the blog.
+    * **Promote** the CGCS, mission trips, mission organizations, ministry opportunities, and other events.
+* Communicate with blog writers and edit articles before publishing them to the blog.
 * Build the marketing website on WordPress.
-    * Develop pages and links for users.
+    * Develop pages, posts, and events on the website. 
     * Weave together images, links, forms, and text in a way that is appealing and informative.
-* Help plan events and determine where social media is needed.
+* Help plan, promote, and execute events, as well as retrieve content from the events. 
 * Communicate with the Communications office at SEBTS to develop branding, as well as materials with our brand on them.
+* Communicate with Media to plan promotional videos. 
 * Upload podcasts to the website and other social media outlets.
+* Create graphics or assist in graphic design for the CGCS. 
 
 
 ### Database Coordinator - Lane Willis

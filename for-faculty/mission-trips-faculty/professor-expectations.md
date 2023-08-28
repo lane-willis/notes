@@ -39,7 +39,7 @@ Since CGCS mission trips are classes at Southeastern, our professors serve as th
 
 
 ### Before the Trip is Approved and Promoted
-As a professor is generating a trip prospectus, the following are things to do in preparation. If you want the information below in a checklist form **[click here.](/missions-center/for-faculty/mission-trips-faculty/prospectus-checklist.html)**
+As a professor is generating a trip prospectus, the following are things to do in preparation. If you want the information below in a checklist form **[click here.](/for-faculty/mission-trips-faculty/prospectus-checklist.html)**
 
 1. Research food costs, place of stay, local travel, and ministry expenses.
    * While the CGCS does book air travel and transportation for the mission trip, the professor needs to research travel before submitting the prospectus to give an accurate projection for the cost of travel. This includes submitting a potential flight path and pricing. These details are extremely important for us to accurately plan trips and can run a mission trip overbudget by tens of thousands of dollars if the professor has not done the work in advance of researching costs.
@@ -123,4 +123,4 @@ As a professor is generating a trip prospectus, the following are things to do i
 
 ---
 
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Home Page](/)

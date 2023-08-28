@@ -48,4 +48,4 @@ If you have additional questions concerning the Pathways » IMB cohorts, applica
 
 ---
 
-[Return to Main Menu](/missions-center/pathways/pathways-imb.html)
+[Return to Main Menu](/pathways/pathways-imb.html)

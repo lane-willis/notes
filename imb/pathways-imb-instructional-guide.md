@@ -96,4 +96,4 @@ If you're interested in further resources on missionary sending or the Pathways 
 
 ---
 
-[Return to Main Menu](/missions-center/pathways/pathways-imb.html)
+[Return to Main Menu](/pathways/pathways-imb.html)

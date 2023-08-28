@@ -23,4 +23,4 @@ No. `GIVE MORE DETAIL HERE`
 
 ---
 
-[Return to Main Menu](/missions-center/pathways/pathways-imb.html)
+[Return to Main Menu](/pathways/pathways-imb.html)

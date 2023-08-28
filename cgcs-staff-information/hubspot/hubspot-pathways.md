@@ -99,4 +99,4 @@ The pathways we are developing for students is held in HubSpot. These pathways a
 
 ---
 
-[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+[Return to HubSpot Home](/cgcs-staff-information/hubspot/hubspot.html)

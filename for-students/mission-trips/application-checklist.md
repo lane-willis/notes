@@ -13,7 +13,7 @@ created: 2023-07-26
 
 ---
 
-![Together We Go](/missions-center/assets/images/tshirt-images/together%20we%20go%20sign%20with%20group.jpg)
+![Together We Go](/assets/images/tshirt-images/together%20we%20go%20sign%20with%20group.jpg)
 
 ---
 
@@ -33,9 +33,9 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Beneficiary Name and Number
 - [ ] Deposit (Done after submitting application)
 
-**For a downloadable PDF of this application checklist, **[please click here.](/missions-center/files/Mission%20Trips-Students.pdf)**
+**For a downloadable PDF of this application checklist, **[please click here.](/files/Mission%20Trips-Students.pdf)**
 
 
 ---
 
-[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)
+[Return to Student Home Page](/for-students/for-students.html)

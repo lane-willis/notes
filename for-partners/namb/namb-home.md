@@ -19,4 +19,4 @@ Pathways » NAMB is a cooperative pathway facilitated by the [Center for Great C
 
 ---
 
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Home Page](/)

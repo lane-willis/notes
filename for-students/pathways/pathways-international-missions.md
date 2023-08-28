@@ -17,11 +17,11 @@ Pathways » International Missions is a cooperative equipping cohort facilitated
 ---
 
 ## International Missions Information
-* [Pathways » IMB Intro](/missions-center/imb/pathways-imb-intro.html)
-* [Pathways » IMB Instructional Guide](/missions-center/imb/pathways-imb-instructional-guide.html)
-* [Pathways » IMB Semester 1 Syllabus](/missions-center/imb/imb-semester-1-syllabus.html)
-* [Pathways » IMB FAQ](/missions-center/imb/pathways-imb-faq.html)
+* [Pathways » IMB Intro](/imb/pathways-imb-intro.html)
+* [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide.html)
+* [Pathways » IMB Semester 1 Syllabus](/imb/imb-semester-1-syllabus.html)
+* [Pathways » IMB FAQ](/imb/pathways-imb-faq.html)
 
 ---
 
-[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)
+[Return to Student Home Page](/for-students/for-students.html)

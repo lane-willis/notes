@@ -19,4 +19,4 @@ Pathways » NC Baptists is a cooperative equipping cohort facilitated by the [Ce
 
 ---
 
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Home Page](/)

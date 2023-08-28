@@ -100,4 +100,4 @@ nav_order: 4
 ### Cross-cultural Missions
 
 ---
-[Return to Home Page](https://keelancook.com/missions-center/)
+[Return to Home Page](/)

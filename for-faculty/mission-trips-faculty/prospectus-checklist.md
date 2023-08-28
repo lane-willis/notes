@@ -34,14 +34,14 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Justification if not working with IMB or NAMB
 - [ ] Trip's purpose. Specific details needed as this is used to promote the trips.
 - [ ] Strategy outline
-- [ ] Proposed Syllabus. For an example, [click here.](/missions-center/files/Mission%20Trip%20Syllabus%20Template.pdf)
+- [ ] Proposed Syllabus. For an example, [click here.](/files/Mission%20Trip%20Syllabus%20Template.pdf)
 
 ---
 
-**For a downloadable PDF of this checklist, [click here.](/missions-center/files/Mission%20Trips-Professors.pdf)**
+**For a downloadable PDF of this checklist, [click here.](/files/Mission%20Trips-Professors.pdf)**
 
 ---
 
-Professors, for more information, check out the [Professor Expectation page](/missions-center/for-faculty/mission-trips-faculty/professor-expectations.html) and [Professor FAQ page](/missions-center/for-faculty/mission-trips-faculty/professor-faq.html).
+Professors, for more information, check out the [Professor Expectation page](/for-faculty/mission-trips-faculty/professor-expectations.html) and [Professor FAQ page](/for-faculty/mission-trips-faculty/professor-faq.html).
 
-For more information on student requirements, feel free to check out the [Student Expectations page](/missions-center/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/missions-center/for-students/mission-trips/student-faq.html).
+For more information on student requirements, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/for-students/mission-trips/student-faq.html).

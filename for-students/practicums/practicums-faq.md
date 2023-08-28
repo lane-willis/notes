@@ -40,5 +40,5 @@ created: 2022-10-13
 
 ---
 
-[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)
+[Return to Student Home Page](/for-students/for-students.html)
 

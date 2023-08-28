@@ -147,4 +147,4 @@ Department – This property is used to designate an employee’s department at 
 
 ---
 
-[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)
+[Return to HubSpot Home](/cgcs-staff-information/hubspot/hubspot.html)

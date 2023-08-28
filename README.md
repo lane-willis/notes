@@ -1,4 +1,4 @@
-![Pathways Banner](/missions-center/assets/images/cgcs-branding/cgcs-header.png)
+![Pathways Banner](/assets/images/cgcs-branding/cgcs-header.png)
 
 # The Center for Great Commission Studies
 Equipping students to fulfill the Great Commission is at the very heart of Southeastern's mission, and the Center for Great Commission Studies is the primary point for making that real for our students. The CGCS is for every student on campus and it's our job to help students figure out their calling and find their pathway to fulfilling the Great Commission, whether that's serving a local church here in the States or taking the gospel to the ends of the earth. We host conferences, meals, conversations, mission trips, and other events to equip and network our students as they seek to GO proclaim the good news among the nations, both overseas and across the street. 

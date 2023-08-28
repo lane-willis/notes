@@ -94,4 +94,4 @@ HubSpot has done a very good job at building out a [knowledge base](https://know
 
 ---
 
-**[Return to HubSpot Home](/missions-center/cgcs-staff-information/hubspot/hubspot.html)**
+**[Return to HubSpot Home](/cgcs-staff-information/hubspot/hubspot.html)**

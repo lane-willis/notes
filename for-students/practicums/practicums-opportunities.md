@@ -18,4 +18,4 @@ Feel free to check back on this page at a later date. If you would like to conta
 
 ---
 
-[Return to Student Home Page](https://keelancook.com/missions-center/for-students/for-students.html)
+[Return to Student Home Page](/for-students/for-students.html)

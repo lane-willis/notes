@@ -5,6 +5,7 @@ type: page
 nav_order: 3
 has_children: true
 created: 2023-07-17
+permalink: partners
 
 ---
 

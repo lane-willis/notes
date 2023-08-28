@@ -167,8 +167,18 @@ To mobilize college and seminary students to take the next step in going with SE
 ### CGCS Research Fellow - Maggie
 
 #### Role:
+To tell the history of the CGCS, Southeastern missionary sending, and other missions history. This role is an internship/research role with the intent to produce academic quality research and resources for students and the SBC at large.
 
 #### Responsibilities:
+* Tell Southeastern's story in missions history.
+* Tell the story of the CGCS and its involvement in missions history.
+* Research missions history here at Southeastern and the CGCS.
+* Produce academic research.
+* Produce academic resources for the SBC at large.
+* Research mission trips sent out from Southeastern.
+* Digitize IMB strategy materials.
+* Digitize Sunday School Board training materials.
+* Work with the CGCS staff members to figure out how to tell the story of Southeastern well.
 
 ### IMB MAG Role - Rick and Nancy Fraley
 

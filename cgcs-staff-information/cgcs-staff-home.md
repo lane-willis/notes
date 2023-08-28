@@ -7,6 +7,7 @@ created: 2023-07-13
 nav_exclude: true
 search_exclude: true
 has_toc: false
+permalink: staff
 
 ---
 

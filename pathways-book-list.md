@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Reading List
+title: Reading/Podcast List
 author: Keelan Cook
 date: 2020-12-20
 nav_order: 4
@@ -98,6 +98,10 @@ nav_order: 4
 * [How Do You Measure Discipleship?](https://keelancook.com/2017/03/06/how-do-you-measure-discipleship/) by Keelan Cook
 
 ### Cross-cultural Missions
+
+---
+
+## Podcasts
 
 ---
 [Return to Home Page](/)

@@ -4,6 +4,7 @@ layout: page
 title: Reading/Podcast List
 author: Keelan Cook
 date: 2020-12-20
+parent: Resources Home
 nav_order: 4
 
 ---

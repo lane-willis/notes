@@ -19,33 +19,33 @@ Below are the current job descriptions for employees within the CGCS. This page 
 
 ### Director
 
-Word:
+Word: 
 PDF: 
 
-### Assistant Director
+### Associate Director
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.docx)
+PDF: [Download Here](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.pdf)
 
 ### Office Manager and Assistant to the CGCS Director
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/office-manager/Assistant%20to%20the%20Director%20Office%20Manager.docx)
+PDF: [Download Here](/files/job-descriptions/office-manager/Assistant%20to%20the%20Director%20Office%20Manager.pdf)
 
 ### Administrative Assistant
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.docx)
+PDF: [Download Here](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.pdf)
 
-### Digital Media Specialist
+### Digital Communication Specialist
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.docx)
+PDF: [Download Here](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.pdf)
 
 ### Database Coordinator
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/database-coordinator/Database%20Coordinator.docx)
+PDF: [Download Here](/files/job-descriptions/database-coordinator/Database%20Coordinator.pdf)
 
 ### Student Mobilizer
 
@@ -54,8 +54,8 @@ PDF:
 
 ### CGCS Research Fellow
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/missions-fellow/CGCS%20Missions%20Fellow%20Job%20Description.docx)
+PDF: [Download Here](/files/job-descriptions/missions-fellow/CGCS%20Missions%20Fellow%20Job%20Description.pdf)
 
 ### IMB MAG Role
 

@@ -91,7 +91,7 @@ nav_order: 2
 --- 
 
 ### How do I suggest a mission trip to the CGCS?
-   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our assistant director (hopefully). The trip prospectus form can be found **[by clicking here](https://cgcs.wufoo.com/forms/mx5d1q41tgaui9/)**.
+   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our assistant director (hopefully). The trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
 
 ### What are the requirements to lead a Southeastern mission trip?
    * **Need help**
@@ -100,7 +100,7 @@ nav_order: 2
    * The mission trip prospectus is due at the end of the Spring Semester for the following school year (e.g. a summer 2025 trip would be due by the end of Spring 2024).
 
 ### How do I access the mission trip prospectus?
-   * Again, the trip prospectus form can be found **[by clicking here](https://cgcs.wufoo.com/forms/mx5d1q41tgaui9/)**.
+   * Again, the trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
 
 ### Do we need to turn in a trip prospectus every year if we want to do the same trip again?
    * Yes a trip prospectus will be due every year. This is because cost estimates will fluctuate from year to year. This will help us get a better idea as we estimate total budget for mission trips.

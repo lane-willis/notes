@@ -141,7 +141,7 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 #### Forms
 *	Regular Forms
 *	Pop-up forms.
-* These can be used for gathering information. We currently use Wufoo, but will be changing to Gravity Forms.
+* These can be used for gathering information. We currently use Gravity Forms.
 
 ### Sales
 

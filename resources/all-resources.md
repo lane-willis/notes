@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Resources Home
+title: Resources
 author: Lane Willis
 date: 2023-08-29
 nav_order: 4

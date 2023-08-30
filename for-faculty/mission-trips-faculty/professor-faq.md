@@ -91,7 +91,7 @@ nav_order: 2
 --- 
 
 ### How do I suggest a mission trip to the CGCS?
-   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our assistant director (hopefully). The trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
+   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our associate director (hopefully). The trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
 
 ### What are the requirements to lead a Southeastern mission trip?
    * **Need help**

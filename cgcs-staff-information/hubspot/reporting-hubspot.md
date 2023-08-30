@@ -16,7 +16,7 @@ search_exclude: true
 
 ### Dashboards
 
-Dashboards are a one stop shop for report management. These are customizable views that can be named based on the reports placed upon them. Dashboards can host all sorts of reports and enable you to quickly find out information for the given inquiry. Currently, in HubSpot, there are five dashboards: Historical Data, Student Breakdown, Company Information, Mission Trip Statistics, and Website Visits and Engagements. More dashboards can be created if a need arises. To do so, just go to the create dashboards button. You can make a dashboard from scratch or from a template.
+Dashboards are a one stop shop for report management. They are housed under the reporting tab in the top menu. These are customizable views that can be named based on the reports placed upon them. Dashboards can host all sorts of reports and enable you to quickly find out information for the given inquiry. Currently, in HubSpot, there are five dashboards: Historical Data, Student Breakdown, Company Information, Mission Trip Statistics, and Website Visits and Engagements. More dashboards can be created if a need arises. To do so, just go to the create dashboards button. You can make a dashboard from scratch or from a template.
 
 Dashboards:
 Historical Data: This shows historical student data, such as graduation numbers, mission degree population, and more.

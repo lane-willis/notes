@@ -10,9 +10,21 @@ search_exclude: true
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
-# HubSpot Introduction
-This is the landing page for everything HubSpot. It holds a table of contents for users to be able to access easily the children pages for HubSpot. The children pages will include links and information that will enable those who fill this role to be able to jump into HubSpot.
+## Marketing Emails
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+---
+
+### Create an Email
+
+To send out emails to a broad audience (a marketing email, not a one-to-one email), go to the marketing tab in the top menu bar. Select emails from that drop down. This will bring you to the email home page. From this point, you can either create a new email or look at the performance of old emails that you have already sent out. You can also choose to clone old emails to resend them at a later date. This enables you to reuse old emails and not completely write new emails.
+
+To write a new email, select create email in the top right corner. 
+
+### Audience
+
+### What is a marketing contact?
+
+---
+
+[Return to HubSpot Home](/cgcs-staff-information/hubspot/hubspot.html)

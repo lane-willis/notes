@@ -49,11 +49,23 @@ To direct the CGCS in becoming the flagship missions center for the SBC. The dir
 * Serve as a resource for missions knowledge and missions strategy to students, professors, and local churches.
 * 
 
-### Assistant Director - 
+### Associate Director - 
 
-#### Role: 
+#### Role:
+To provide leadership, direction, and oversight of key mobilization and student initiatives. This includes aiding in pathways initiative and facilitating SEBTS mission trip strategy.
 
 #### Responsibilities:
+* Develop and execute the CGCS short-term mission trip strategy.
+   * This requires working with the office manager to facilitate strategy.
+   * Recruit and train faculty members to lead mission trips.
+   * Develop varied mission trip strategies.
+   * Maintain field relationships
+* Oversee the student mobilization strategy for the CGCS.
+    * Promote international and North American missions to the population.
+    * Coach and counsel students concerning calling and ministry preparation.
+* Provide general leadership to center staff when necessary.
+* Support the Director of the CGCS in leadership responsibilities.
+* Other needs and responsibilities as assigned.
 
 ### Office Manager and Assistant to the CGCS Director - Kelly Garner
 

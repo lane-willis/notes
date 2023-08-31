@@ -31,6 +31,8 @@ search_exclude: true
 The pathways we are developing for students is held in HubSpot. These pathways are held in the sales tab through the deal mechanism. Below is a list of the current pathways, along with the steps that we currently have in place for students to follow. A student can easily be moved along these pathways by adjusting the deal stage the student resides in on the pipeline.
 
 ### International Missions
+The International Missions pathway is designed to help students GO to the nations. This pathway is integrated with IMB resources to enable you to discover your calling and place. As a student, you will be guided, trained, and challenged to do evangelism and engage cross-culturally. You will be taught some about the Core Missionary Task and you will walk alongside like-minded students in engaging the nation. The goal of this pathway is for you to GO to the nations in however God is leading you!
+
 * Expressed Interest in International Missions
 * Booked 1st Go Meeting
 * Had 1st Go Meeting with Rick and Nancy

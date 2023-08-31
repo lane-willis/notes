@@ -46,6 +46,8 @@ The pathways we are developing for students is held in HubSpot. These pathways a
 * Completed Application
 * Placed/Sent
 
+[Click here for Flowchart](/files/pathway-flowcharts/Screenshot%202023-08-31%209.41.46%20AM.png)
+
 ### North American Church Planting
 * Expressed interest in NACP
 * Booked 1st Go Meeting

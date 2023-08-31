@@ -48,7 +48,7 @@ The International Missions pathway is designed to help students GO to the nation
 * Completed Application
 * Placed/Sent
 
-[Click here for Flowchart](/files/pathway-flowcharts/Screenshot%202023-08-31%209.41.46%20AM.png)
+[Click here for Flowchart](/files/pathway-flowcharts/IM%20Pathway%20with%20Roadblocks.png)
 
 ### North American Church Planting
 * Expressed interest in NACP

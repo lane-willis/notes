@@ -48,9 +48,10 @@ The International Missions pathway is designed to help students GO to the nation
 * Completed Application
 * Placed/Sent
 
-[Click here for Flowchart](/files/pathway-flowcharts/IM%20Pathway%20with%20Roadblocks.png)
+**[Click here for International Missions Flowchart](/files/pathway-flowcharts/IM%20Pathway%20with%20Roadblocks.png)**
 
 ### North American Church Planting
+
 * Expressed interest in NACP
 * Booked 1st Go Meeting
 * Had 1st Go Meeting with Chloe/Keelan
@@ -64,6 +65,8 @@ The International Missions pathway is designed to help students GO to the nation
 * Started Candidate Milestones
 * Attended Network Assessment
 * Sent out to Church Plant
+
+**[Click here for NACP Flowchart](/files/pathway-flowcharts/NACP%20Pathway.png)**
 
 ### Replanting/Revitalization
 * Expressed interest in Replanting/Revitalization

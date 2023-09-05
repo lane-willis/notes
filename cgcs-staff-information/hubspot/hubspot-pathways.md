@@ -52,6 +52,7 @@ The International Missions pathway is designed to help students GO to the nation
 **[Click here for Expanded International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Expanded.png)**
 
 ### North American Church Planting
+The North American Church Planting (NACP) pathway is designed to equip students to GO through planting churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in becoming a church planter. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church planting strategies and you will walk alongside like-minded poeple to engage North America. The goal of this pathway is for you to GO to North America by making disciples and building healthy churches.
 
 * Expressed interest in NACP
 * Booked 1st Go Meeting
@@ -71,6 +72,8 @@ The International Missions pathway is designed to help students GO to the nation
 **[Click here for Expanded NACP Flowchart](/files/pathway-flowcharts/NACP%20Expanded.png)**
 
 ### Replanting/Revitalization
+The Replanting/Revitalization pathway is designed to equip students to GO by helping struggling churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in revitalization. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church revitalization strategies and you will walk alongside like-minded poeple to engage North America. The goal of this pathway is for you to GO to North America by aiding struggling churches and guiding them towards health!
+
 * Expressed interest in Replanting/Revitalization
 * Booked 1st Go Meeting
 * Had 1st Go Meeting with Keelan

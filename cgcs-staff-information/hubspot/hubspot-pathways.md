@@ -28,7 +28,7 @@ search_exclude: true
 
 # Pathways
 
-The pathways we are developing for students is held in HubSpot. These pathways are held in the sales tab through the deal mechanism. Below is a list of the current pathways, along with the steps that we currently have in place for students to follow. A student can easily be moved along these pathways by adjusting the deal stage the student resides in on the pipeline.
+The pathways we are developing for students is held in HubSpot. These pathways are held in the sales tab through the deal mechanism. Below is a list of the current pathways, along with the steps that we currently have in place for students to follow. There is also some front-facing material and flowcharts. A student can easily be moved along these pathways by adjusting the deal stage the student resides in on the pipeline.
 
 ### International Missions
 The International Missions pathway is designed to help students GO to the nations. This pathway is integrated with IMB resources to enable you to discover your calling and place. As a student, you will be guided, trained, and challenged to do evangelism and engage cross-culturally. You will be taught some about the Core Missionary Task and you will walk alongside like-minded students in engaging the nation. The goal of this pathway is for you to GO to the nations in however God is leading you!
@@ -48,7 +48,8 @@ The International Missions pathway is designed to help students GO to the nation
 * Completed Application
 * Placed/Sent
 
-**[Click here for International Missions Flowchart](/files/pathway-flowcharts/IM%20Pathway%20with%20Roadblocks.png)**
+**[Click here for Simple International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Simple.png)**
+**[Click here for Expanded International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Expanded.png)**
 
 ### North American Church Planting
 
@@ -66,7 +67,8 @@ The International Missions pathway is designed to help students GO to the nation
 * Attended Network Assessment
 * Sent out to Church Plant
 
-**[Click here for NACP Flowchart](/files/pathway-flowcharts/NACP%20Pathway.png)**
+**[Click here for Simple NACP Flowchart](/files/pathway-flowcharts/NACP%20Simple.png)**
+**[Click here for Expanded NACP Flowchart](/files/pathway-flowcharts/NACP%20Expanded.png)**
 
 ### Replanting/Revitalization
 * Expressed interest in Replanting/Revitalization
@@ -80,6 +82,9 @@ The International Missions pathway is designed to help students GO to the nation
      * Connected with local church on how they can be sent out from their church
      * Accepted by a local church to revitalize.
 * Sent out to Replant/Revitalize
+
+**[Click here for Simple Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Simple.png)**
+**[Click here for Expanded Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Expanded.png)**
 
 ### Pastoral Ministry
 * Send this list over to the Pastor’s Center so they can pursue these people.

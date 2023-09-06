@@ -48,7 +48,7 @@ The International Missions pathway is designed to help students GO to the nation
 * Completed Application
 * Placed/Sent
 
-**[Click here for Simple International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Simple.png)**
+**[Click here for Simple International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Simple.png)**  
 **[Click here for Expanded International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Expanded.png)**
 
 ### North American Church Planting
@@ -68,7 +68,7 @@ The North American Church Planting (NACP) pathway is designed to equip students 
 * Attended Network Assessment
 * Sent out to Church Plant
 
-**[Click here for Simple NACP Flowchart](/files/pathway-flowcharts/NACP%20Simple.png)**
+**[Click here for Simple NACP Flowchart](/files/pathway-flowcharts/NACP%20Simple.png)**  
 **[Click here for Expanded NACP Flowchart](/files/pathway-flowcharts/NACP%20Expanded.png)**
 
 ### Replanting/Revitalization
@@ -86,7 +86,7 @@ The Replanting/Revitalization pathway is designed to equip students to GO by hel
      * Accepted by a local church to revitalize.
 * Sent out to Replant/Revitalize
 
-**[Click here for Simple Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Simple.png)**
+**[Click here for Simple Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Simple.png)**  
 **[Click here for Expanded Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Expanded.png)**
 
 ### Pastoral Ministry

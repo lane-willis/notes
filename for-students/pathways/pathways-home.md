@@ -7,6 +7,7 @@ has_children: true
 parent: For Students
 created: 2022-10-13
 has_toc: false
+permalink: pathways
 
 ---
 

@@ -6,6 +6,7 @@ nav_order: 2
 has_children: true
 parent: For Students
 created: 2022-10-13
+permalink: trips
 
 ---
 

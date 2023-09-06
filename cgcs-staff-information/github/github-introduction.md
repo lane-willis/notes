@@ -19,7 +19,7 @@ For a quickstart guide, [click here.](https://docs.github.com/en/get-started/qui
 For access to all the docs, [click here.](https://docs.github.com/en)
 
 ## Why are we using GitHub?
-We are using GitHub because it is free and simplistic. It only takes a little bit of coding knowledge to begin. The most useful language to learn when working with GitHub is markdown. To read more about markdown [click here.](/cgcs-staff-information/github/what-is-markdown.md) GitHub is also versatile enough to hold other coding languages. There are also a vast array of templates available to import. This enables you to use already created styles for your site!
+We are using GitHub because it is free and simplistic. It only takes a little bit of coding knowledge to begin. The most useful language to learn when working with GitHub is markdown. To read more about markdown [click here.](/cgcs-staff-information/github/what-is-markdown.html) GitHub is also versatile enough to hold other coding languages. There are also a vast array of templates available to import. This enables you to use already created styles for your site!
 
 ## Do I have to have a profile?
 Yes, to operate on GitHub, you must first create a profile. This enables others to see who has been utilizing or working with their code. This gives some integrity to the platform as a whole. There are multiple types of GitHub accounts, from free to paid accounts. Luckily, all we need right now is a free account!

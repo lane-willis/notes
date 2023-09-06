@@ -23,7 +23,7 @@ This is the parent page for documentation within the CGCS. It includes navigatio
   1. [Introduction](/cgcs-staff-information/github/github-introduction.html)
   2. [What is a repository?](/cgcs-staff-information/github/github-repository.html)
   3. [Do you know about the period?](/cgcs-staff-information/github/github-dev.html)
-  4. [What is markdown?]((/cgcs-staff-information/github/what-is-markdown.html))
+  4. [What is markdown?](/cgcs-staff-information/github/what-is-markdown.html)
 * [HubSpot Home](/cgcs-staff-information/hubspot/hubspot.html)
   1. [Introduction](/cgcs-staff-information/hubspot/hubspot-introduction.html)
   2. [How do I learn about HubSpot?](/cgcs-staff-information/hubspot/hubspot-help.html)

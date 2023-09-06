@@ -148,11 +148,6 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 #### Deals
 * This will host the pipelines/pathways for us.
 
-#### Tasks
-#### Payments
-#### Playbooks
-#### Quotes
-
 ### Service
 * Tickets
 
@@ -168,18 +163,15 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 
 ### Reports
 
-#### Analytics Tools
-
 #### Dashboards
 *	Automatically places multiple reports in one place.
 *	We can generate these from scratch or choose pre-made dashboards
 *	Can set up a recurring email to send you the report on a certain basis.
 
 #### Reports
-
-#### Integrations
-
-#### Data Model
+* Reports are charts, models, and graphs that users can create to make meaning from data that we have in the CRM.
+* Reports can be built about contacts, companies, deals, activities, and more.
+* There are single-object reports and custom reports.
 
 ---
 

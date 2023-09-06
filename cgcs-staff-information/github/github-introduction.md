@@ -10,7 +10,7 @@ search_exclude: true
 
 ---
 
-## GitHub Introduction
+# GitHub Introduction
 
 ### What is GitHub?
 GitHub is an opensource code hosting platform that lets you work with others on projects from anywhere at anytime. GitHub is widely used by developers for documentation pages and wiki websites. It requires minimal coding, but you can put just about any amount of code into it if you would like to do so/know how. GitHub also has its own documentation/knowledge base that is quite helpful in getting started. I will link to these documents throughout this website as they are quite helpful and we do not need to rework the wheel here. GitHub also enables you to turn repositories into websites and utilize custom domains you might own. In fact, missions.center is a custom domain but this very website has been designed on GitHub using a template called Just the Docs.

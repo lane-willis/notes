@@ -2,7 +2,7 @@
 title: WordPress Home
 author: Lane Willis
 type: page
-nav_order: 3
+nav_order: 7
 parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true

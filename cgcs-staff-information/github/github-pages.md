@@ -10,7 +10,7 @@ search_exclude: true
 
 ---
 
-## Pages... I mean website... I mean page... I mean website...
+## Pages... I mean website... I mean pages... I mean website...
 
 
 ---

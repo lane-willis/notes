@@ -18,7 +18,7 @@ WordPress is an open source software that was designed to help developers build 
 To find out more about WordPress [click here.](https://wordpress.org/about/)
 
 ### Why are we using WordPress?
-The CGCS is using WordPress because SEBTS its main website and all center's sites there. We also use it because it is fairly straightforward to navigate and figure out.
+The CGCS is using WordPress because SEBTS its main website and all center's sites there. We also use it because it is fairly straightforward to navigate and figure out. WordPress is also linked to HubSpot and is the location of our form software [Gravity Forms](/cgcs-staff-information/wordpress/wordpress-forms.html). We utilize WordPress for advertisement, blog posts, and social media integration. The WordPress site is mostly maintained by the digitial communications specialist. WordPress can also contain media, photos, graphics, and videos in the media tab on the left tool bar.
 
 ### What is the URL for our WordPress site?
 The URL for our wordpress page is [https://thecgcs.org/](thecgcs.org)

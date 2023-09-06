@@ -10,9 +10,20 @@ search_exclude: true
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+# GitHub Introduction
 
-# Github Introduction
-This is the landing page for everything GitHub. It holds a table of contents for users to be able to access easily the children pages for GitHub. The children pages will include links and information that will enable those who fill this role to be able to jump into GitHub.
+## What is GitHub?
+GitHub is an opensource code hosting platform that lets you work with others on projects from anywhere at anytime. GitHub is widely used by developers for documentation pages and wiki websites. It requires minimal coding, but you can put just about any amount of code into it if you would like to do so/know how. GitHub also has its own documentation/knowledge base that is quite helpful in getting started. I will link to these documents throughout this website as they are quite helpful and we do not need to rework the wheel here. GitHub also enables you to turn repositories into websites and utilize custom domains you might own. In fact, missions.center is a custom domain but this very website has been designed on GitHub using a template called Just the Docs.
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+For a quickstart guide, [click here.](https://docs.github.com/en/get-started/quickstart/hello-world)
+For access to all the docs, [click here.](https://docs.github.com/en)
+
+## Why are we using GitHub?
+We are using GitHub because it is free and simplistic. It only takes a little bit of coding knowledge to begin. The most useful language to learn when working with GitHub is markdown. To read more about markdown [click here.](/cgcs-staff-information/github/what-is-markdown.md) GitHub is also versatile enough to hold other coding languages. There are also a vast array of templates available to import. This enables you to use already created styles for your site!
+
+## Do I have to have a profile?
+Yes, to operate on GitHub, you must first create a profile. This enables others to see who has been utilizing or working with their code. This gives some integrity to the platform as a whole. There are multiple types of GitHub accounts, from free to paid accounts. Luckily, all we need right now is a free account!
+
+---
+
+[Return to GitHub Home](/cgcs-staff-information/github/github.html)

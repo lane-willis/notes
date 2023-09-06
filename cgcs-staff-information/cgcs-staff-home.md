@@ -33,6 +33,7 @@ This is the parent page for documentation within the CGCS. It includes navigatio
   6. [Forms](/cgcs-staff-information/hubspot/forms-hubspot.html)
   7. [Reporting](/cgcs-staff-information/hubspot/reporting-hubspot.html)
   8. [Marketing Emails](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
+  9. [Automation](/cgcs-staff-information/hubspot/automation.html)
 * [WordPress Home](/cgcs-staff-information/wordpress/wordpress.html)
   1. [Introduction](/cgcs-staff-information/wordpress/wordpress-introduction.html)
   2. [Pages](/cgcs-staff-information/wordpress/wordpress-pages.html)

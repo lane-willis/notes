@@ -18,3 +18,4 @@ This is the landing page for everything GitHub. It holds a table of contents for
 2. [What is a repository?](/cgcs-staff-information/github/github-repository.html)
 3. [Do you know about the period?](/cgcs-staff-information/github/github-dev.html)
 4. [What is markdown?](/cgcs-staff-information/github/what-is-markdown.html)
+5. [How do I make this a website?](/cgcs-staff-information/github/github-pages.html)

@@ -2,7 +2,7 @@
 title: Markdown Rundown
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 4
 parent: GitHub Home
 grand_parent: CGCS Staff
 created: 2023-07-13

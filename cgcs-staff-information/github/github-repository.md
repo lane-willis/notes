@@ -19,6 +19,7 @@ For more information about repositories follow the links below:
 [Repositories Docs Home](https://docs.github.com/repositories)
 [About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)  
 [Create Repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo)  
+[Deleting Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)  
 [Create Repos Deep Dive](https://docs.github.com/en/repositories/creating-and-managing-repositories)  
 
 ---

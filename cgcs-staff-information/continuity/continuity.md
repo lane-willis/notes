@@ -26,8 +26,8 @@ A continuity folder typically includes task lists, job description, job responsi
 You can update your continuity folder every time you do a task. If you use your continuity folder to complete tasks at times, you will see its accuracy and usefulness. The easiest time to build a continuity folder is when you are starting out on a job, but it is never too late to begin!
 
 ## Continuity Folder Links
-[Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)
-[Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)
+[Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)  
+[Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)  
 Director  
 Associate Director  
 Office Manager  
@@ -40,4 +40,4 @@ IMB MAG Role
 
 ---
 
-[Return to Staff Home](/cgcs-staff-information/cgcs-staff-home.html)
+[Return to Staff Home](/staff)

@@ -43,3 +43,7 @@ As I mentioned above, the underutilized spaces in our office are the Missions Ro
  
 ### As you forecast the next 5 years, is there any information you feel would help facilities better serve you?  
 The CGCS desires to be a center that helps facilitate student involvement with the Great Commission as well as partner with local churches and sending agencies to produce pipelines that will send to the nations. Right now, our office feels slightly outdated and is in need of a facelift to do this in the next generation. We need a space that inspires students and engages with them each and every day. The CGCS should be an attractive location for students to visit and hangout, yet that does not feel like the case right now. As we think about the next five years, we would love to see an increase in student involvement and denominational partnership. Yet, we lack a great hosting space for large groups, while also lacking a space for students to just hang out. Some of the changes above are intended to help facilitate these changes. Since we also want to be a resource for the community, some greater front-facing options for the Foyer and Rotunda are quite needed.
+
+---
+
+[Return to Staff Home](/staff)

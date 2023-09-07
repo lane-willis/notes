@@ -206,3 +206,7 @@ To mobilize college and seminary students to take the next step in going with SE
 * Record meetings in HubSpot and log student interactions.
 * Work with local churches and mission pastors to formulate pipelines to the nations.
 * Work with the IMB to discover how best to serve students in their desire to go with the IMB.
+
+---
+
+[Return to Staff Home](/staff)

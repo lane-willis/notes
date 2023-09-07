@@ -18,3 +18,7 @@ This is the landing page for everything WordPress. It holds a table of contents 
 2. [Pages](/cgcs-staff-information/wordpress/wordpress-pages.html)
 3. [Forms](/cgcs-staff-information/wordpress/wordpress-forms.html)
 4. [Private or Public?](/cgcs-staff-information/wordpress/wp-private-or-public.html)
+
+---
+
+[Return to Staff Home](/staff)

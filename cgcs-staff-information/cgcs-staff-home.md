@@ -49,4 +49,3 @@ This is the parent page for documentation within the CGCS. It includes navigatio
   1. [Introduction](/cgcs-staff-information/wordpress/wordpress-introduction.html)
   2. [Pages](/cgcs-staff-information/wordpress/wordpress-pages.html)
   3. [Forms](/cgcs-staff-information/wordpress/wordpress-forms.html)
-  4. [Private or Public?](/cgcs-staff-information/wordpress/wp-private-or-public.html)

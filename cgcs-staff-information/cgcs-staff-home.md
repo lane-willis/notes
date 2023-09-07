@@ -17,8 +17,18 @@ This is the parent page for documentation within the CGCS. It includes navigatio
 
 * [GitHub FlowChart:](/cgcs-staff-information/github-flowchart.html) A larger breakdown of the pages on this site that are unlinked. Basically this is a large table of contents.
 * [CGCS Office Space Breakdown](/cgcs-staff-information/cgcs-space-breakdown.html)
-* [CGCS Job Descriptions](/cgcs-staff-information/cgcs-job-descriptions.html)
-* [CGCS Job Responsibilities](/cgcs-staff-information/cgcs-job-responsibilities.html)
+* [Continuity Folder](/cgcs-staff-information/continuity/continuity.html)
+  1. [CGCS Job Descriptions](/cgcs-staff-information/cgcs-job-descriptions.html)
+  2. [CGCS Job Responsibilities](/cgcs-staff-information/cgcs-job-responsibilities.html)
+  3. [Director]
+  4. [Associate Director]
+  5. [Office Manager]
+  6. [Admin Assistant to the Director]
+  7. [Database Coordinator]
+  8. [Digital Communications Specialist]
+  9. [Student Mobilizer]
+  10. [Research Fellow]
+  11. [IMB MAG Role]
 * [GitHub Home](/cgcs-staff-information/github/github.html)
   1. [Introduction](/cgcs-staff-information/github/github-introduction.html)
   2. [What is a repository?](/cgcs-staff-information/github/github-repository.html)

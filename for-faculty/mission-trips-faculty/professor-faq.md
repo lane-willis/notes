@@ -148,13 +148,13 @@ nav_order: 2
    * An appropriate total for an international trip is under $4000 total.
 
 ### What kind of receipts should we be keeping?
-   * Answer Coming Soon!
+   * You should keep every receipt available unless otherwise notified by Kelly Garner.
 
 ### What expenses do we charge to a ministry/school card and what expenses do we charge to a personal card?
-   * Answer Coming Soon!
+   * This depends on the trip location and what cash has been given to you for travel. You will discuss this with Kelly Garner and the director of the CGCS before leaving.
 
 ### Can we give people money while in-country?
-   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book [*When Helping Hurts* by Brian Fikkert and Steve Corbett].
+   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book [*When Helping Hurts* by Brian Fikkert and Steve Corbett](https://www.amazon.com/When-Helping-Hurts-Alleviate-Yourself/dp/0802409989).
 
 ---
 

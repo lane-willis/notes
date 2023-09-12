@@ -53,14 +53,14 @@ nav_order: 2
 ### Does a mission trip participant have to be a SEBTS student?
    * To go on a mission trip with SEBTS, the participant has to be a SEBTS student. Sometimes students ask if they can bring their spouses who are not SEBTS students. Most of the time, the answer to this question is no.
 
-### Can I bring my spouse? Children? **NEED HELP** 
-   * This depends on what housing you can find for the team. We do not want spouses or children taking up spots that would otherwise go to students. We also do not want family to take away from your ability to focus on students and invest in them.
+### Can I bring my spouse? Children?
+   * This depends on what housing you can find for the team. We do not want spouses or children taking up spots that would otherwise go to students. We also do not want family to take away from your ability to focus on students and invest in them. However, we also recognize that family comes first and investing/discipling them is of utmost importance. With all this said, feel free to reach out to the director of the CGCS to discuss this in-depth.
 
-### Can I lead a mission trip with another professor? **NEED HELP**
-   * The short answer is yes.
+### Can I lead a mission trip with another professor?
+   * The short answer is yes. Contact the director of the CGCS to discuss this.
 
 ### What strategies can we implement when going on a mission trip?
-   * Our core strategy when going on a mission trip is to partner with local believers or local missionaries who work in the target area. We will partner with them, coming alongside their strategies and rhythms to get the Gospel to the nations. The IMB utilizes a strategic method called the Core Missionary Task (Entry, evangelism, discipleship, healthy church formation, leadership training, and partnership and exit). Partnering with IMB teams in one of these categories is a great way to implement strategy. Other strategies include aiding in-country churches with VBS, caring for in-country missionaries, diaspora work, replanting/revitalization work, and being involved in open-air preaching. The goal of our strategy should always be the fulfillment of the Great Commission. So, whatever strategy you choose to implement, it should have as its thrust, the Great Commission. **Want to discuss this with you. Feel like I should know these better than I do.**
+   * Our core strategy when going on a mission trip is to partner with local believers or local missionaries who work in the target area. We will partner with them, coming alongside their strategies and rhythms to get the Gospel to the nations. The IMB utilizes a strategic method called the Core Missionary Task (Entry, evangelism, discipleship, healthy church formation, leadership training, and partnership and exit). Partnering with IMB teams in one of these categories is a great way to implement strategy. Other strategies include aiding in-country churches with VBS, caring for in-country missionaries, diaspora work, replanting/revitalization work, and being involved in open-air preaching. The goal of our strategy should always be the fulfillment of the Great Commission. So, whatever strategy you choose to implement, it should have as its thrust, the Great Commission.
 
 ### What expectations does the CGCS have of faculty members?
    * See professor expectation list **[by clicking here](/for-faculty/mission-trips-faculty/professor-expectations.html)**. There are expectations before the trip, during the trip, and after the trip. Please read these carefully.
@@ -94,7 +94,7 @@ nav_order: 2
    * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our associate director (hopefully). The trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
 
 ### What are the requirements to lead a Southeastern mission trip?
-   * **Need help**
+   * Answer Coming Soon!
 
 ### When is the mission trip prospectus due?
    * The mission trip prospectus is due at the end of the Spring Semester for the following school year (e.g. a summer 2025 trip would be due by the end of Spring 2024).
@@ -128,9 +128,7 @@ nav_order: 2
    * The students need to have some sort of personal time with the Lord. You can make this personal time a requirement and put this into your trip schedule. You can also choose to have group devotionals in the morning after this time, if you feel like you can fit that into your schedule. You can lead a devotional or have a student lead the short devotional. This is up to you. We encourage some group prayer time before going out for the day, seeking the Lord's guidance and aid in your endeavors.
 
 ### What guidelines do I need to follow in creating the trip?
-   * The guidelines to follow in creating the trip are located in this FAQ section and the **[Trip Expectations](/for-faculty/mission-trips-faculty/professor-expectations.html)**. You also need to follow SEBTS guidelines for course requirements.
-
-> link to SEBTS guidelines, either the website or on the webpage below. Where is this Keelan?
+   * The guidelines to follow in creating the trip are located in this FAQ section and the **[Trip Expectations](/for-faculty/mission-trips-faculty/professor-expectations.html)**. You also need to follow any SEBTS guidelines for course requirements.
 
 ### What guidelines do I need to follow while on the trip?
    * During the trip, you will be representing yourselves, the Lord, and SEBTS. While on the field, you are to follow covenantal guidelines found in the BFM 2000, the Student Handbook, and any other documents that you are expected to uphold while serving as a professor. Just because you are out of the country does not mean your expectations change. They are the same as while you are on campus. An additional expectation on a mission trip is that you invest in the students on the trip, desiring to see them stretched in new ways and encouraging them to take steps of faith.
@@ -150,13 +148,13 @@ nav_order: 2
    * An appropriate total for an international trip is under $4000 total.
 
 ### What kind of receipts should we be keeping?
-   * **Kelly answer this one. Need help**
+   * Answer Coming Soon!
 
 ### What expenses do we charge to a ministry/school card and what expenses do we charge to a personal card?
-   * **Kelly answer this one. Need help**
+   * Answer Coming Soon!
 
 ### Can we give people money while in-country?
-   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book *When Helping Hurts* by Brian Fikkert and Steve Corbett.
+   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book [*When Helping Hurts* by Brian Fikkert and Steve Corbett].
 
 ---
 

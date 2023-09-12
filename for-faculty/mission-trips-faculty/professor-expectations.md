@@ -56,7 +56,7 @@ As a professor is generating a trip prospectus, the following are things to do i
    * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
    * You also need to research the safety of the area you will be going. You can check some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
 2. Be aware of local culture. Work directly with the field partners on the ground where the mission trip will be located, identifying needs and goals of current teams on the ground.
-3. Submit a mission trip prospectus form by the end of the Spring semester for the following academic year.
+3. Submit a [mission trip prospectus form](https://www.thecgcs.org/mission-trip-prospectus/) by the end of the Spring semester for the following academic year.
 
 ### After Trip is Approved and is Promoted
 

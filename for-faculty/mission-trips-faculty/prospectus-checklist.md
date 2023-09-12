@@ -42,6 +42,10 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
+#### For the **mission trip prospectus**, [click here.](https://www.thecgcs.org/mission-trip-prospectus/)
+
+---
+
 Professors, for more information, check out the [Professor Expectation page](/for-faculty/mission-trips-faculty/professor-expectations.html) and [Professor FAQ page](/for-faculty/mission-trips-faculty/professor-faq.html).
 
 For more information on student requirements, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/for-students/mission-trips/student-faq.html).

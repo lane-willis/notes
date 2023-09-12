@@ -6,6 +6,8 @@ created: 2021-02-12
 parent: Church Resources
 grand_parent: For Partners
 nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
 
 ![Advocacy Banner](https://i.imgur.com/JkzxoQ7.png)

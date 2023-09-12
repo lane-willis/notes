@@ -16,11 +16,7 @@ Pathways » International Missions is a cooperative equipping cohort facilitated
 
 ---
 
-## International Missions Information
-* [Pathways » IMB Intro](/imb/pathways-imb-intro.html)
-* [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide.html)
-* [Pathways » IMB Semester 1 Syllabus](/imb/imb-semester-1-syllabus.html)
-* [Pathways » IMB FAQ](/imb/pathways-imb-faq.html)
+![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
 ---
 

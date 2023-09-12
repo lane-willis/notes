@@ -12,15 +12,11 @@ created: 2020-12-01
 
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
-Pathways » IMB is a cooperative equipping cohort facilitated by the [Center for Great Commission Studies](https://thecgcs.org) at [Southeastern Baptist Theological Seminary](https://sebts.edu) in partnership with the [International Mission Board (IMB)](https://www.imb.org/). We hope to streamline the process of onboarding new missionaries and simplify the application process for those wanting to go. The IMB has worked hard with our association to create a process that both meets their requirements and allows us the freedom to design a system that meets the unique needs of our churches.
+This page will be a resource for our partners serving with the IMB. We desire for you to be able to utilize this page as an aid in your work fulfilling the Great Commission. As this site is under development, please be patient with us as we accumulate and post resources!
 
 ---
 
-## IMB Sub-Pages
-* [Pathways » IMB Intro](/imb/pathways-imb-intro.html)
-* [Pathways » IMB Instructional Guide](/imb/pathways-imb-instructional-guide.html)
-* [Pathways » IMB Semester 1 Syllabus](/imb/imb-semester-1-syllabus.html)
-* [Pathways » IMB FAQ](/imb/pathways-imb-faq.html)
+## IMB Resources
 
 ---
 

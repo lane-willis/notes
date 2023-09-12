@@ -6,6 +6,8 @@ nav_order: 1
 parent: Church Resources
 grand_parent: For Partners
 created: 2021-02-06
+nav_exclude: true
+search_exclude: true
 
 ---
 

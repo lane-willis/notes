@@ -24,6 +24,8 @@ Welcome to the podcast resources page! This page will hold podcast resources to 
 
 ## Full-Length Podcasts
 
+---
+
 ### Priority of Missions
 
 ### Evangelism
@@ -37,6 +39,8 @@ Welcome to the podcast resources page! This page will hold podcast resources to 
 ### Revitalization
 
 ## Podcast Shorts
+
+---
 
 ### Out of the Tower Evangelism Segments with Dr. Robinson
 
@@ -71,6 +75,16 @@ Welcome to the podcast resources page! This page will hold podcast resources to 
 #### [Sharing God's Story](/files/podcasts/out-of-tower-disciple-making/4-%20Sharing%20God's%20Story.mp3)
 
 #### [Worldview Questions](/files/podcasts/out-of-tower-disciple-making/5%20-%20Worldview%20Questions.mp3)
+
+#### [411](/files/podcasts/out-of-tower-disciple-making/6%20-%20411.mp3)
+
+#### [Biblical Accountability](/files/podcasts/out-of-tower-disciple-making/8%20-%20Biblical%20Accountability.mp3)
+
+#### [Basic Commands](/files/podcasts/out-of-tower-disciple-making/9%20-%20Basic%20Commands.mp3)
+
+#### [Healthy Church Myth](/files/podcasts/out-of-tower-disciple-making/10%20-%20Healthy%20Church%20Myth.mp3)
+
+#### [Movements](/files/podcasts/out-of-tower-disciple-making/11%20-%20Movements.mp3)
 
 ---
 

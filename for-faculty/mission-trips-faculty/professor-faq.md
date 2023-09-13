@@ -94,7 +94,7 @@ nav_order: 2
    * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our associate director (hopefully). The trip prospectus form can be found **[by clicking here](https://www.thecgcs.org/mission-trip-prospectus/)**.
 
 ### What are the requirements to lead a Southeastern mission trip?
-   * Answer Coming Soon!
+   * To lead a trip, you have to be a member of the faculty. An adjunct faculty member can lead a trip, but a staff member cannot. If a staff member is also a faculty member, they can lead a trip.
 
 ### When is the mission trip prospectus due?
    * The mission trip prospectus is due at the end of the Spring Semester for the following school year (e.g. a summer 2025 trip would be due by the end of Spring 2024).

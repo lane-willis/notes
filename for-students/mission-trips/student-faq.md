@@ -133,7 +133,8 @@ nav_order: 2
    * If a student raises more support than is due for their trip, the amount that has been over-raised is dispersed to students in need of trip funding.
 
 ### How much does a mission trip normally cost?
-   * North American trips typically cost **insert cost here**. International trips typically cost **insert cost here**. Kelly answering.
+   * The cost of a mission trip will differ if it is a North American or international trip. North American trips range from $500-$800 typically. International trips range from $2000-$2500 typically. The cost of the trip will depend on destination, method of travel, airline fare, and length of trip. All prices are subject to change and are evaluated each year based on current economical climate.  
+
 
 ### How much money should I bring with me on the trip?
    * You should not have to bring a lot of money with you on the trip since the travel, housing, and food costs are covered. If you want to buy souvenirs, you will have to provide your funding. Some countries accept the American dollar, while many countries are converting to cashless payment methods. Bringing a credit/debit card with you is probably sufficient for most cases.

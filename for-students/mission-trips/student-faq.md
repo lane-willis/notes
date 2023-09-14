@@ -133,7 +133,7 @@ nav_order: 2
    * If a student raises more support than is due for their trip, the amount that has been over-raised is dispersed to students in need of trip funding.
 
 ### How much does a mission trip normally cost?
-   * North American trips typically cost **insert cost here**. International trips typically cost **insert cost here**.
+   * North American trips typically cost **insert cost here**. International trips typically cost **insert cost here**. Kelly answering.
 
 ### How much money should I bring with me on the trip?
    * You should not have to bring a lot of money with you on the trip since the travel, housing, and food costs are covered. If you want to buy souvenirs, you will have to provide your funding. Some countries accept the American dollar, while many countries are converting to cashless payment methods. Bringing a credit/debit card with you is probably sufficient for most cases.

@@ -20,15 +20,15 @@ This is the parent page for documentation within the CGCS. It includes navigatio
 * [Continuity Folder](/cgcs-staff-information/continuity/continuity.html)
   1. [CGCS Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)
   2. [CGCS Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)
-  3. [Director]
-  4. [Associate Director]
-  5. [Office Manager]
-  6. [Admin Assistant to the Director]
-  7. [Database Coordinator]
-  8. [Digital Communications Specialist]
-  9. [Student Mobilizer]
-  10. [Research Fellow]
-  11. [IMB MAG Role]
+  3. [Director](/cgcs-staff-information/continuity/folders/director.html)
+  4. [Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)
+  5. [Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html)
+  6. [Admin Assistant to the Director](/cgcs-staff-information/continuity/folders/admin-assistant-to-director.html)
+  7. [Database Coordinator](/cgcs-staff-information/continuity/folders/database-coordinator.html)  
+  8. [Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)
+  9. [Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)
+  10. [Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)
+  11. [IMB MAG Role](/cgcs-staff-information/continuity/folders/imb-mag-role.html)
 * [GitHub Home](/cgcs-staff-information/github/github.html)
   1. [Introduction](/cgcs-staff-information/github/github-introduction.html)
   2. [What is a repository?](/cgcs-staff-information/github/github-repository.html)

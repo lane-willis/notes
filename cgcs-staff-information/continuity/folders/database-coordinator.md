@@ -26,8 +26,17 @@ search_exclude: true
 ---
 
 ## Onboarding Manual
+<-- Link to Job Description and Job Responsibilities -->
 
-## How To
+## Mission Critical Tasks
+
+## Daily Tasks
+
+## Monthly Tasks
+
+## Semester Tasks
+
+
 
 ---
 

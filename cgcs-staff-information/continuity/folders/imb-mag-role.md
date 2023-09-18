@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - IMB MAG Role
+title: IMB MAG Role
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 9
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - Student Mobilizer
+title: Student Mobilizer
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 7
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

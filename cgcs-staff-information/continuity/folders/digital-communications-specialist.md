@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - Digital Communications Specialist
+title: Digital Communications Specialist
 author: Lane Willis
 type: page
-nav_order: 5
+nav_order: 6
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

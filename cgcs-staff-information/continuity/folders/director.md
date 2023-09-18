@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - Director
+title: Director
 author: Lane Willis
 type: page
 nav_order: 1
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

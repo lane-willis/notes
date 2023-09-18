@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - Research Fellow
+title: Research Fellow
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 8
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

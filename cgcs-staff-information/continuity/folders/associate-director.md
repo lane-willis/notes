@@ -1,9 +1,10 @@
 ---
-title: Continuity Folder - Associate Director
+title: Associate Director
 author: Lane Willis
 type: page
 nav_order: 2
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 

@@ -1,15 +1,16 @@
 ---
-title: Continuity Folder - Database Manager
+title: Database Coordinator
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 5
 parent: Continuity Folder
+grand_parent: CGCS Staff
 created: 2023-07-13
 search_exclude: true
 
 ---
 
-# Associate Director
+# Database Coordinator
 {: .no_toc }
 
 ---

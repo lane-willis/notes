@@ -25,4 +25,10 @@ search_exclude: true
 
 ---
 
+## Onboarding Manual
+
+## How To
+
+---
+
 [Return to Continuity Folders](/cgcs-staff-information/continuity/continuity.html)

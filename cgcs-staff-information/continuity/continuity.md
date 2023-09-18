@@ -25,18 +25,23 @@ A continuity folder typically includes task lists, job description, job responsi
 ### How often should I update my continuity folder?
 You can update your continuity folder every time you do a task. If you use your continuity folder to complete tasks at times, you will see its accuracy and usefulness. The easiest time to build a continuity folder is when you are starting out on a job, but it is never too late to begin!
 
+### Can you give me an example of a continuity folder?
+Sure! Here are a couple examples:  
+[NASA](/files/continuity-files/NASA.pdf)  
+[Military](/files/continuity-files/Military.pdf)  
+
 ## Continuity Folder Links
 [Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)  
 [Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)  
-Director  
-Associate Director  
-Office Manager  
-Admin Assistant to the Director  
-Database Manager  
-Digital Communications Specialist  
-Student Mobilizer  
-Research Fellow  
-IMB MAG Role  
+[Director](/cgcs-staff-information/continuity/folders/director.html)  
+[Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)  
+[Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html)  
+[Admin Assistant to the Director](/cgcs-staff-information/continuity/folders/admin-assistant-to-director.html)  
+[Database Manager](/cgcs-staff-information/continuity/folders/database-coordinator.html)  
+[Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)  
+[Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)  
+[Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)  
+[IMB MAG Role](/cgcs-staff-information/continuity/folders/imb-mag-role.html)  
 
 ---
 

@@ -29,7 +29,7 @@ has_toc: false
 ---
 
 ## What is the CGCS?
-At its core, the Center for Great Commission Studies is the missions hub of Southeastern. For more information about the CGCS,[click here.](https://www.thecgcs.org/about/)
+At its core, the Center for Great Commission Studies is the missions hub of Southeastern. For more information about the CGCS, [click here.](https://www.thecgcs.org/about/)
 
 ## What is the mission of the CGCS?
 The mission of the CGCS exists to mobilize and equip students, faculty, and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, and among the nations in partnership with local churches, state conventions, NAMB, and the IMB.
@@ -38,10 +38,10 @@ The mission of the CGCS exists to mobilize and equip students, faculty, and staf
 The 5-Year plan of the CGCS can be found [here.]
 
 ## Who are the current staff members at the CGCS?
-The CGCS has 9 staff members. For an overview of our staf, [click here.](https://www.thecgcs.org/about/) On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
+The CGCS has 9 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/) On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
 
 ## What tools are currently used by the CGCS?
-The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, WorkFlowy, NextCloud, Greenshades, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
+The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, WorkFlowy, Nextcloud, Greenshades, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
 
 ### Todoist
 

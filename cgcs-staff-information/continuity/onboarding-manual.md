@@ -44,8 +44,16 @@ The CGCS has 9 staff members. For an overview of our staff, [click here.](https:
 The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, WorkFlowy, Nextcloud, Greenshades, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
 
 ### Todoist
+Todoist is a task management software that the CGCS uses to designate and organize tasks. For features and more information about todoist [click here.](https://todoist.com/features) You can create your own login and profile for free! It is easy to use, intuitive, and has great features. If you don't have a task manager, I would recommend this one to you!
 
 ### HubSpot
+HubSpot is a software that connects a team's marketing and sales tools to a CRM Database. **[Click here](https://knowledge.hubspot.com/get-started)** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base themselves that enables people to seek out answers easily. Be sure to make use of this material! HubSpot is broken down into five areas: Marketing, Sales, Service, Operations, and CMS. These five areas designate different features and are interconnected when it comes to usage. There are also four levels that a team can purchase: free, starter, professional, and enterprise. This is for each of the five areas above, so there are many different ways one can utilize HubSpot. Our current plan includes the free version of service, operations, and CMS, the starter version of marketing, and the enterprise version of sales.
+
+### What is a CRM database?
+CRM stands for customer relationship management. A CRM database is a database that holds information on customers that helps organizations manage and analyze customer interactions and data. A CRM typically compiles customer data across different points of contact between the customer and organization. These might include phone calls, texts, emails, or meetings.
+
+### What are we using a CRM for?
+Here in the CGCS, our customers are students and the organization is the Center, as well as the school. We are utilizing HubSpot's CRM to capture student data, especially a student's interactions with the CGCS. Since the CGCS is seeking to provide aid to a student in ministry preparation and calling, it is important for us to know the kind of information we have given to a student when going into a meeting.
 
 ### WordPress
 

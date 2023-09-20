@@ -200,12 +200,22 @@ To mobilize college and seminary students to take the next step in going with SE
 #### Responsibilities:
 * Meet with students to hear their stories.
 * Promote going with SEBTS and the IMB.
-* Create cohorts to facilitate missions opportunities and interest.
 * Work with the director to advance engagement and student involvement on mission trips.
 * Encourage students to use their summer/lives to serve the Lord and help fulfill the Great Commission.
+    * Actively recruit missionaries to all Affinities and Field Support offices of the IMB.
 * Record meetings in HubSpot and log student interactions.
-* Work with local churches and mission pastors to formulate pipelines to the nations.
-* Work with the IMB to discover how best to serve students in their desire to go with the IMB.
+* Collaborate with the Church/Student Mobilization teams who are engaging with pastors, ministry leaders and students near the seminary.
+    * Work with local churches and mission pastors to formulate pipelines to the nations.
+    * Work with the IMB to discover how best to serve students in their desire to go with the IMB.
+* Help the seminary build a missionary pipeline that overlays with our A/D process.
+    * Actively run this pipeline by working with those in the pipeline learn and participate in the Core Missionary Task locally.
+    * Mentor those in the pipeline to becoming healthy sustainable missionaries.
+    * Regularly meet with candidates in the missionary pipeline both as a group and individually with same gender candidates for encouragement and mentoring.
+    * Create cohorts to facilitate missions opportunities and interest.
+* Supplement the work of the Candidate Consultant in a limited capacity.
+* Participate in all campus activities by being available to speak in classes as invited, attending chapel, representing the IMB in all mission activities, and attending mission fellowship gatherings.
+    * Help IMB offices coordinate on-site visits interdepartmentally.
+
 
 ---
 

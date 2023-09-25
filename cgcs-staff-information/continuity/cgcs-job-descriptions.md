@@ -59,8 +59,8 @@ PDF: [Download Here](/files/job-descriptions/missions-fellow/CGCS%20Missions%20F
 
 ### IMB MAG Role
 
-Word:
-PDF: 
+Word: [Download Here](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.docx)
+PDF: [Download Here](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.pdf)
 
 ---
 

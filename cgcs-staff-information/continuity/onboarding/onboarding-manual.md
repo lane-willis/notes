@@ -3,7 +3,8 @@ title: Onboarding Manual
 author: Lane Willis
 type: page
 nav_order: 3
-parent: CGCS Staff
+parent: Onboarding
+grand_parent: CGCS Staff
 created: 2023-09-13
 search_exclude: true
 has_toc: false

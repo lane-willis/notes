@@ -52,18 +52,21 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
 CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
    1. GitHub FlowChart
    2. CGCS Office Space Breakdown
-   3. Continuity Folder
-      1. CGCS Job Descriptions
-      2. CGCS Job Responsibilities
-      3. Director
-      4. Associate Director
-      5. Office Manager
-      6. Admin Assistant to the Director
-      7. Database Coordinator
-      8. Digital Communications Specialist
-      9. Student Mobilizer
-      10. Research Fellow
-      11. IMB MAG Role
+   3. Onboarding
+      1. Onboarding Manual
+      2. Staff Expectations
+      3. Job Descriptions
+      4. Job Responsibilities
+   4. Continuity Folder
+      1. Director
+      2. Associate Director
+      3. Office Manager
+      4. Admin Assistant to the Director
+      5. Database Coordinator
+      6. Digital Communications Specialist
+      7. Student Mobilizer
+      8. Research Fellow
+      9. IMB MAG Role
    4. GitHub Home
       1. Introduction
       2. What is a repository?

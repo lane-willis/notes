@@ -92,7 +92,9 @@ Part-time staff are more flexible in their time off, as they are working a small
 <!-- Written with help of ChatGPT] -->
 
 ## What expectations do you have of me as an employee?
-As an office, we have certain expectations of our employees. On your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also has some general expectations of you as an employee. For these expectations, [click here.](add expectations)
+As an office, we have certain expectations of our employees. On your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also has some general expectations of you as an employee.
+
+[Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html){: .btn }
 
 ## What about chapel?
 Full-time and part-time staff receive one paid chapel a week. You are allowed to stay on the clock during this hour and sit under preaching and worship with other SEBTS staff and students. We encourage you to participate in chapel! It is of great benefit to you as you grow in your relationship with the Lord.

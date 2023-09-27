@@ -2,6 +2,7 @@
 
 author: Keelan Cook
 type: page
+permalink: /
 
 ---
 

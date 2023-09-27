@@ -1,3 +1,10 @@
+---
+
+author: Keelan Cook
+type: page
+
+---
+
 ![Pathways Banner](/assets/images/cgcs-branding/cgcs-header.png)
 
 # The Center for Great Commission Studies

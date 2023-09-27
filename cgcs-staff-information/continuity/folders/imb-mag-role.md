@@ -26,11 +26,17 @@ search_exclude: true
 
 ---
 
-## Onboarding Manual
-[Onboarding Manual](/cgcs-staff-information/continuity/onboarding-manual.html)
+## Onboarding
+1. [Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding.html)
+2. [Onboarding Manual](/cgcs-staff-information/continuity//onboarding/onboarding-manual.html)
+3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-[Link to Job Description and Job Responsibilities]: #
+Job Descriptions:
+[Word File](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
+[PDF Version](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.pdf){: .btn }
+
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#imb-mag-role---rick-and-nancy-fraley){: .btn }
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

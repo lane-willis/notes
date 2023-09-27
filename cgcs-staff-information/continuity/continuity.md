@@ -30,10 +30,7 @@ Sure! Here are a couple examples:
 [NASA](/files/continuity-files/NASA.pdf)  
 [Military](/files/continuity-files/Military.pdf)  
 
-## Continuity Folder Links
-[Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)  
-[Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)  
-[Onboarding Manual](/cgcs-staff-information/continuity/onboarding-manual.html)  
+## Continuity Folders
 [Director](/cgcs-staff-information/continuity/folders/director.html)  
 [Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)  
 [Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html)  

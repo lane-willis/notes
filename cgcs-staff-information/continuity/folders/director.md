@@ -26,8 +26,10 @@ search_exclude: true
 
 ---
 
-## Onboarding Manual
-[Onboarding Manual](/cgcs-staff-information/continuity/onboarding-manual.html)
+## Onboarding
+1. [Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding.html)
+2. [Onboarding Manual](/cgcs-staff-information/continuity//onboarding/onboarding-manual.html)
+3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
 [Link to Job Description and Job Responsibilities]: #

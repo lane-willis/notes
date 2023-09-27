@@ -26,11 +26,15 @@ search_exclude: true
 
 ---
 
-## Onboarding Manual
-[Onboarding Manual](/cgcs-staff-information/continuity/onboarding-manual.html)
+## Onboarding
+1. [Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding.html)
+2. [Onboarding Manual](/cgcs-staff-information/continuity//onboarding/onboarding-manual.html)
+3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-[Link to Job Description and Job Responsibilities]: #
+Job Descriptions:
+
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#student-mobilizer---chloe-rutherford){: .btn }
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

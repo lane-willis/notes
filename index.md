@@ -5,6 +5,7 @@ author: Keelan Cook
 type: page
 nav_order: 1
 created: 2022-10-13
+nav_exclude: true
 permalink: /
 
 ---

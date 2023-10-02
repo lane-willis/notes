@@ -24,9 +24,13 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
    2. Mission Trips: This page introduces students to mission trip documentation and enables them to navigate between the subpages.
       1. Mission Trips >> Student Expectations
       2. Mission Trips >> Student FAQ
-   3. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and avaialable opportunities.
+   3. Student Degrees: This page is the introductory/landing page for missions degrees. There will be FAQs and other generic advice on pursuing degrees.
+      1. Mission Degrees
+      2. Mission Degrees FAQ
+   4. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and avaialable opportunities.
       1. Practicum FAQ
       2. Available Opportunities
+   5. Student Resources
 2. For Faculty: This page is the top page for faculty overall.
    1. Mission Trips: This page introduces faculty to mission trip documentation and enables them to navigate between the subpages.
       1. Mission Trips >> Professor Expectations

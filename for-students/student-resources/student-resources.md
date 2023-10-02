@@ -5,7 +5,7 @@ title: Student Resources
 author: Lane Willis
 date: 2023-08-29
 parent: For Students
-nav_order: 4
+nav_order: 5
 
 ---
 

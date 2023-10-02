@@ -2,7 +2,7 @@
 title: Missions Degrees FAQ
 author: Lane Willis
 type: page
-nav_order: 3
+nav_order: 2
 parent: Missions Degrees
 grand_parent: For Students
 created: 2022-10-13

@@ -13,7 +13,7 @@ search_exclude: true
 
 ---
 
-Below are the current job descriptions for employees within the CGCS. This page was last updated on 8/3/2023.
+Below are the current job descriptions for employees within the CGCS. This page was last updated on 10/17/2023.
 
 ---
 

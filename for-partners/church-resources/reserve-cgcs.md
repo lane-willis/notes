@@ -23,7 +23,7 @@ permalink: reserve
 
 To submit a request to reserve the Rotunda in Jacumin-Simpson click the button below:
 
-[Rotunda Reservation Form](www.thecgcs.org){: .btn }
+[Rotunda Reservation Form](https://www.thecgcs.org){: .btn }
 
 ---
 

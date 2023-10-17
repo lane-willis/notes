@@ -1,6 +1,6 @@
 ---
 
-title: Church Resources
+title: Reservations
 author: Lane Willis
 type: page
 nav_order: 5

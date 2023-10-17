@@ -36,7 +36,7 @@ At its core, the Center for Great Commission Studies is the missions hub of Sout
 The mission of the CGCS exists to mobilize and equip students, faculty, and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, and among the nations in partnership with local churches, state conventions, NAMB, and the IMB.
 
 ## What does the 5-year plan of the CGCS look like?
-The 5-Year plan of the CGCS can be found [here.]
+The 5-Year plan of the CGCS can be found [here.](/files/5-Year%20Plan.pdf)
 
 ## Who are the current staff members at the CGCS?
 The CGCS has 9 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/) On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.

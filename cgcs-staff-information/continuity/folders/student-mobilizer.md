@@ -32,8 +32,10 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Descriptions:
+Job Descriptions:  
+Insert Files Here. Still waiting on this one.
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#student-mobilizer---chloe-rutherford){: .btn }
 
 ## Tasks

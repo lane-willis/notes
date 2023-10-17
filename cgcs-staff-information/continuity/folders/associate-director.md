@@ -32,10 +32,11 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Description:
+Job Description:  
 [Word File](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.pdf){: .btn }
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#associate-director--){: .btn }
 
 ## Tasks

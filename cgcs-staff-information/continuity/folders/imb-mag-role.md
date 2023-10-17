@@ -32,10 +32,11 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Descriptions:
+Job Descriptions:  
 [Word File](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.pdf){: .btn }
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#imb-mag-role---rick-and-nancy-fraley){: .btn }
 
 ## Tasks

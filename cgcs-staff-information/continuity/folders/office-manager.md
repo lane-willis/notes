@@ -32,10 +32,11 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Description:
+Job Description:  
 [Word File](/files/job-descriptions/office-manager/Assistant%20to%20the%20Director%20Office%20Manager.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/office-manager/Assistant%20to%20the%20Director%20Office%20Manager.pdf){: .btn }
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#office-manager-and-assistant-to-the-cgcs-director---kelly-garner){: .btn }
 
 

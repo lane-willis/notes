@@ -32,10 +32,11 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Descriptions:
+Job Descriptions:  
 [Word File](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.pdf){: .btn }
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#administrative-assistant---timothy-waters){: .btn }
 
 ## Tasks

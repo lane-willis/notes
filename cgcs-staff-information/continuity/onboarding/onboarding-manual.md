@@ -42,7 +42,7 @@ The 5-Year plan of the CGCS can be found [here.]
 The CGCS has 9 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/) On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
 
 ## What tools are currently used by the CGCS?
-The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, WorkFlowy, Nextcloud, Greenshades, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
+The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, WorkFlowy, HedgeDoc, Nextcloud, Greenshades, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
 
 ### Todoist
 Todoist is a task management software that the CGCS uses to designate and organize tasks. For features and more information about todoist [click here.](https://todoist.com/features) You can create your own login and profile for free! It is easy to use, intuitive, and has great features. If you don't have a task manager, I would recommend this one to you!

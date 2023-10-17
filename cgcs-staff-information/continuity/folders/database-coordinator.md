@@ -32,10 +32,11 @@ search_exclude: true
 3. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
 
 ## Duties and Responsibilities
-Job Descriptions:
+Job Descriptions:  
 [Word File](/files/job-descriptions/database-coordinator/Database%20Coordinator.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/database-coordinator/Database%20Coordinator.pdf){: .btn }
 
+Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#database-coordinator---lane-willis){: .btn }
 
 ## Tasks

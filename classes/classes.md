@@ -42,6 +42,6 @@ has_toc: false
 
 ### MIS6590 ICP
 
-### EVA5100 EV
+### EVA5100 EV Nature and Practice
 
 ---

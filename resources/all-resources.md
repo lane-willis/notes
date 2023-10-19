@@ -12,17 +12,9 @@ permalink: resources
 
 ## Resources
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+Welcome to the Resources Home Page! Below you will find links to resources that I have found helpful over the years. You will also find links to a missions related reading list which includes books, articles, and podcasts. Feel free to peruse and utilize these resources in your ministry!
 
-Welcome to the Resources Home Page! Below you will find links to church resources, student resources, and partnership resources. You will also find links to a missions related reading list which includes books, articles, and podcasts. Feel free to peruse and utilize these resources in your ministry!
-
-### Student Resources
-
-### Faculty Resources
-
-### Church Resources
-
-### Partnership Resources
+### Resources
 
 ### Reading List
 

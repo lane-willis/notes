@@ -1,7 +1,7 @@
 ---
 
-title: The CGCS Docs
-author: Keelan Cook
+title: Lane's Notes
+author: Lane Willis
 type: page
 nav_order: 1
 created: 2022-10-13
@@ -9,8 +9,6 @@ nav_exclude: true
 permalink: /
 
 ---
-
-  {% include analytics.html %}
 
 ![Pathways Banner](/assets/images/cgcs-branding/cgcs-header.png)
 

@@ -1,5 +1,5 @@
-title: "The CGCS Docs"
-description: "The documentation site for the missions hub of Southeastern Baptist Theological Seminary"
+title: "Lane's Notes"
+description: "A Repository for the Personal Notes of Lane Willis"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "pnd"
 search_enabled: true
@@ -10,15 +10,15 @@ logo:
 
 # Aux links for the upper right navigation
 aux_links:
-  "CGCS Main Website": https://www.thecgcs.org/
+  "About Lane": https://lane-willis.github.io/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
 # External navigation links
 nav_external_links:
-  - title: CGCS Main Website
-    url: https://www.thecgcs.org/
+  - title: About Lane
+    url: https://lane-willis.github.io/
     hide_icon: true
 
 # Footer content
@@ -28,4 +28,4 @@ nav_external_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 The CGCS. Credit to Just the Docs <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2023 Lane Willis. Credit to Just the Docs. <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"

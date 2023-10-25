@@ -9,6 +9,22 @@ has_toc: false
 
 ---
 
+# Quotes
+{: .no_toc }
+
+---
+
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 ### Dr. Robinson
 * A truth discovered is more compelling than a truth told.
 

@@ -27,6 +27,8 @@ has_toc: false
 
 ### Dr. Robinson
 * A truth discovered is more compelling than a truth told.
+* I realized that I needed to learn to ride the rhythms of Wake Forest and not create new things for non-believers to try and come to.
+   * Asking people who are far from God to break their rhythms and come to our "thing."
 
 ### Dr. Hambrick
 * Counseling is only as effective as you are honest.

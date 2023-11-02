@@ -29,6 +29,8 @@ has_toc: false
 * A truth discovered is more compelling than a truth told.
 * I realized that I needed to learn to ride the rhythms of Wake Forest and not create new things for non-believers to try and come to.
    * Asking people who are far from God to break their rhythms and come to our "thing."
+* The person who controls the questions controls the direction of the conversation.
+* The moment you win an argument, you lose the person. (EV context)
 
 ### Dr. Hambrick
 * Counseling is only as effective as you are honest.

@@ -31,7 +31,7 @@ permalink: CGCS
 * Gather information on Missionaries
    * Turn missionaries into mobilizers
 * Set up Event Registration for Monday Night Kickoff
-* Communicate with DL about the potential women's event.
+* Communicate with DL about the potential women's event. (Lane)
    * Do it in Eitel.
    * They get priority.
 * Communicate with NAMB.

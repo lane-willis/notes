@@ -5,7 +5,7 @@ type: page
 nav_order: 2
 has_children: true
 created: 2023-07-17
-permalink: classes
+permalink: work
 has_toc: false
 
 ---

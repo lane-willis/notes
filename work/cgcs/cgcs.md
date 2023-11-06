@@ -3,7 +3,6 @@ title: CGCS
 author: Lane Willis
 type: page
 nav_order: 1
-has_children: true
 created: 2023-10-19
 parent: Work
 permalink: CGCS
@@ -36,6 +35,10 @@ permalink: CGCS
    * Do it in Eitel.
    * They get priority.
 * Communicate with NAMB.
+* Communicate with Library (Keelan).
+* Communicate with Minwoo.
+* Prayer walk planning (Chloe and Meridith).
+* Send out form to professors for missionaires in classes.
 
 ### Kickoff Event
 * Who should we invite?
@@ -73,6 +76,20 @@ permalink: CGCS
 
 ### Library Talk
 * Is this happening?
+
+### Prayer Walking
+* Still happening?
+* Signs?
+* Prayer walking at 7am instead of 8am. 6:30am then?
+* Kickoff: Coffee and Donuts.
+* Move to Thursday instead of Tuesday?
+* Rain option? Binkley? Eitel? Appleby?
+
+### Signage?
+* Goofy flags churches put up.
+* Sidewalk stickers?
+* Entrances to buildings?
+* Really large banners for chapel and then also for JS.
 
 ---
 

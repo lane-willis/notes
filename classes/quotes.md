@@ -2,7 +2,7 @@
 title: Quotes
 author: Lane Willis
 type: page
-nav_order: 2
+nav_order: 3
 created: 2023-07-17
 permalink: quotes
 has_toc: false

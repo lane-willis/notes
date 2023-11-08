@@ -40,3 +40,5 @@ has_toc: false
 * You are never more free than you are honest.
 * I need to protect my wife from others, but also from MYSELF. My harsh words will hurt more than anyone else's. Good word here.
 * We get into trouble when we teach gender by stereotype. This doesn't serve us well.
+* If you want to make public statements, you need to be informed.
+* Part of humility is a willingness to listen, being unoffended by conversation, and caring well in conversation.

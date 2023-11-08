@@ -39,3 +39,4 @@ has_toc: false
    * This is why false love and true betrayal can be studied in tandem.
 * You are never more free than you are honest.
 * I need to protect my wife from others, but also from MYSELF. My harsh words will hurt more than anyone else's. Good word here.
+* We get into trouble when we teach gender by stereotype. This doesn't serve us well.

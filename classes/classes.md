@@ -28,13 +28,51 @@ has_toc: false
 
 ## Semester 1
 
+### ETH5100 An Introduction to Christian Ethics
+
+### HIS5130 Baptist History
+
+### MIS5100 Christian Missions: Principles and Practice
+
+### PRS6100 Hermeneutics and Practice (Preaching)
+
+### SEM5000 Intro to Sem
+
 ## Semester 2
+
+### HEB5110 Hebrew 1
+
+### OTS5110 Old Testament 1
+
+### HIS5110 Church History 1
 
 ## Semester 3
 
+### HEB5120 Hebrew 2
+
+### OTS5120 Old Testament 2
+
+### HIS5120 Church History 2
+
+### EVA6610 Personal Discipleship and Disciple-Making
+
 ## Semester 4
 
+### GRK5110 Greek 1
+
+### NTS5110 New Testament 1
+
+### THE6610 Theology 1
+
 ## Semester 5
+
+### GRK5120 Greek 2
+
+### NTS5120 New Testament 2
+
+### THE6620 Theology 2
+
+### MIS6901 MIS Practicum
 
 ## Semester 6
 

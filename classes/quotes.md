@@ -31,6 +31,7 @@ has_toc: false
    * Asking people who are far from God to break their rhythms and come to our "thing."
 * The person who controls the questions controls the direction of the conversation.
 * The moment you win an argument, you lose the person. (EV context)
+* You don't learn healthy ecclesiology and then plant a healthy church.
 
 ### Dr. Hambrick
 * Counseling is only as effective as you are honest.

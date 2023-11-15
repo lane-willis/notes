@@ -44,3 +44,4 @@ has_toc: false
 * If you want to make public statements, you need to be informed.
 * Part of humility is a willingness to listen, being unoffended by conversation, and caring well in conversation.
 * The greatest tool I have in the discipleship of my children as a dad is my failures. Do I own them? Do I repent? Do I repent in a way that is not blame-shifting or minimizing? "I was wrong."
+* If busy seasons keep backing up on one another, don't call it busy seasons, but call it a busy lifestyle.

@@ -43,3 +43,4 @@ has_toc: false
 * We get into trouble when we teach gender by stereotype. This doesn't serve us well.
 * If you want to make public statements, you need to be informed.
 * Part of humility is a willingness to listen, being unoffended by conversation, and caring well in conversation.
+* The greatest tool I have in the discipleship of my children as a dad is my failures. Do I own them? Do I repent? Do I repent in a way that is not blame-shifting or minimizing? "I was wrong."

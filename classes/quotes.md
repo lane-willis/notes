@@ -34,6 +34,7 @@ has_toc: false
 * You don't learn healthy ecclesiology and then plant a healthy church.
 * You will never get ahead of the growth until you learn to plan ahead for the growth that is coming.
 * If you are going to reach people far from God, you need to need them also.
+* Alter one thing at a time when CP. Then you will have a better idea of what got a movement going.
 
 ### Dr. Hambrick
 * Counseling is only as effective as you are honest.

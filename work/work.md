@@ -10,11 +10,6 @@ has_toc: false
 
 ---
 
-# Classes
-{: .no_toc }
-
----
-
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -25,8 +20,6 @@ has_toc: false
 </details>
 
 ---
-
-## CGCS
 
 ## Company
 
